@@ -2,8 +2,8 @@ Data Analytics Source Code of Kampus Merdeka Batch 6 - RevoU's Data Analytics Ca
 
 This is source code of our RevoU's Data Analytics Capstone Project. Our study case is a dataset of Shopping Cart Database.
 
-Background : From August to December, there was a 24% decrease in revenue.
-Potential analytics direction : How can we increase revenue by 10-15% in two months?
+Background : From August to December, there was a 24% decrease in revenue.</br>
+Potential analytics direction : How can we increase revenue by 10-15% in two months?</br>
 RCA : https://whimsical.com/revou-s-captsone-project-data-analytics-shopping-cart-database-PJ4mAePDiDp8LQ9mzvsqEa
 
 Business Question : 
@@ -16,7 +16,7 @@ Scope :
 - Time range Jan 2021 - Dec 2021
 - Sample size from 1000 to 5000 data
 
-Hypothesis : The effect of price, more promotion, fast and charge of delivery can affected to customer for purchase more items
+Hypothesis : The effect of price, more promotion, fast and charge of delivery can affected to customer for purchase more items.
 
 Metrics :
 - Monthly revenue
