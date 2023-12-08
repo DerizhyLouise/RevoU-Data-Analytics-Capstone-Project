@@ -1,0 +1,1234 @@
+product_id,product_type,product_name,size,colour,quantity,description,price
+1,Shirt,Oxford Cloth,S,red,53,"A red coloured, S sized, Oxford Cloth Shirt",96.0
+2,Shirt,Oxford Cloth,M,red,54,"A red coloured, M sized, Oxford Cloth Shirt",96.0
+3,Shirt,Oxford Cloth,L,red,69,"A red coloured, L sized, Oxford Cloth Shirt",96.0
+4,Shirt,Oxford Cloth,XL,red,47,"A red coloured, XL sized, Oxford Cloth Shirt",96.0
+5,Shirt,Oxford Cloth,XS,orange,45,"A orange coloured, XS sized, Oxford Cloth Shirt",96.0
+6,Shirt,Oxford Cloth,S,orange,72,"A orange coloured, S sized, Oxford Cloth Shirt",96.0
+7,Shirt,Oxford Cloth,M,orange,77,"A orange coloured, M sized, Oxford Cloth Shirt",96.0
+8,Shirt,Oxford Cloth,L,orange,48,"A orange coloured, L sized, Oxford Cloth Shirt",96.0
+9,Shirt,Oxford Cloth,XL,orange,43,"A orange coloured, XL sized, Oxford Cloth Shirt",96.0
+10,Shirt,Oxford Cloth,XS,yellow,72,"A yellow coloured, XS sized, Oxford Cloth Shirt",96.0
+11,Shirt,Oxford Cloth,S,yellow,78,"A yellow coloured, S sized, Oxford Cloth Shirt",96.0
+12,Shirt,Oxford Cloth,M,yellow,56,"A yellow coloured, M sized, Oxford Cloth Shirt",96.0
+13,Shirt,Oxford Cloth,L,yellow,75,"A yellow coloured, L sized, Oxford Cloth Shirt",96.0
+14,Shirt,Oxford Cloth,XL,yellow,50,"A yellow coloured, XL sized, Oxford Cloth Shirt",96.0
+15,Shirt,Oxford Cloth,XS,green,68,"A green coloured, XS sized, Oxford Cloth Shirt",96.0
+16,Shirt,Oxford Cloth,S,green,56,"A green coloured, S sized, Oxford Cloth Shirt",96.0
+17,Shirt,Oxford Cloth,M,green,60,"A green coloured, M sized, Oxford Cloth Shirt",96.0
+18,Shirt,Oxford Cloth,L,green,52,"A green coloured, L sized, Oxford Cloth Shirt",96.0
+19,Shirt,Oxford Cloth,XL,green,42,"A green coloured, XL sized, Oxford Cloth Shirt",96.0
+20,Shirt,Oxford Cloth,XS,blue,47,"A blue coloured, XS sized, Oxford Cloth Shirt",96.0
+21,Shirt,Oxford Cloth,S,blue,51,"A blue coloured, S sized, Oxford Cloth Shirt",96.0
+22,Shirt,Oxford Cloth,M,blue,57,"A blue coloured, M sized, Oxford Cloth Shirt",96.0
+23,Shirt,Oxford Cloth,L,blue,59,"A blue coloured, L sized, Oxford Cloth Shirt",96.0
+24,Shirt,Oxford Cloth,XL,blue,60,"A blue coloured, XL sized, Oxford Cloth Shirt",96.0
+25,Shirt,Oxford Cloth,XS,indigo,61,"A indigo coloured, XS sized, Oxford Cloth Shirt",96.0
+26,Shirt,Oxford Cloth,S,indigo,59,"A indigo coloured, S sized, Oxford Cloth Shirt",96.0
+27,Shirt,Oxford Cloth,M,indigo,62,"A indigo coloured, M sized, Oxford Cloth Shirt",96.0
+28,Shirt,Oxford Cloth,L,indigo,70,"A indigo coloured, L sized, Oxford Cloth Shirt",96.0
+29,Shirt,Oxford Cloth,XL,indigo,55,"A indigo coloured, XL sized, Oxford Cloth Shirt",96.0
+30,Shirt,Oxford Cloth,XS,violet,74,"A violet coloured, XS sized, Oxford Cloth Shirt",96.0
+31,Shirt,Oxford Cloth,S,violet,41,"A violet coloured, S sized, Oxford Cloth Shirt",96.0
+32,Shirt,Oxford Cloth,M,violet,65,"A violet coloured, M sized, Oxford Cloth Shirt",96.0
+33,Shirt,Oxford Cloth,L,violet,73,"A violet coloured, L sized, Oxford Cloth Shirt",96.0
+34,Shirt,Oxford Cloth,XL,violet,54,"A violet coloured, XL sized, Oxford Cloth Shirt",96.0
+35,Shirt,Dress,XS,red,63,"A red coloured, XS sized, Dress Shirt",104.0
+36,Shirt,Dress,S,red,72,"A red coloured, S sized, Dress Shirt",104.0
+37,Shirt,Dress,M,red,57,"A red coloured, M sized, Dress Shirt",104.0
+38,Shirt,Dress,L,red,79,"A red coloured, L sized, Dress Shirt",104.0
+39,Shirt,Dress,XL,red,47,"A red coloured, XL sized, Dress Shirt",104.0
+40,Shirt,Dress,XS,orange,58,"A orange coloured, XS sized, Dress Shirt",104.0
+41,Shirt,Dress,S,orange,69,"A orange coloured, S sized, Dress Shirt",104.0
+42,Shirt,Dress,M,orange,53,"A orange coloured, M sized, Dress Shirt",104.0
+43,Shirt,Dress,L,orange,73,"A orange coloured, L sized, Dress Shirt",104.0
+44,Shirt,Dress,XL,orange,78,"A orange coloured, XL sized, Dress Shirt",104.0
+45,Shirt,Dress,XS,yellow,69,"A yellow coloured, XS sized, Dress Shirt",104.0
+46,Shirt,Dress,S,yellow,56,"A yellow coloured, S sized, Dress Shirt",104.0
+47,Shirt,Dress,M,yellow,61,"A yellow coloured, M sized, Dress Shirt",104.0
+48,Shirt,Dress,L,yellow,56,"A yellow coloured, L sized, Dress Shirt",104.0
+49,Shirt,Dress,XL,yellow,75,"A yellow coloured, XL sized, Dress Shirt",104.0
+50,Shirt,Dress,XS,green,51,"A green coloured, XS sized, Dress Shirt",104.0
+51,Shirt,Dress,S,green,60,"A green coloured, S sized, Dress Shirt",104.0
+52,Shirt,Dress,M,green,65,"A green coloured, M sized, Dress Shirt",104.0
+53,Shirt,Dress,L,green,52,"A green coloured, L sized, Dress Shirt",104.0
+54,Shirt,Dress,XL,green,52,"A green coloured, XL sized, Dress Shirt",104.0
+55,Shirt,Dress,XS,blue,41,"A blue coloured, XS sized, Dress Shirt",104.0
+56,Shirt,Dress,S,blue,46,"A blue coloured, S sized, Dress Shirt",104.0
+57,Shirt,Dress,M,blue,48,"A blue coloured, M sized, Dress Shirt",104.0
+58,Shirt,Dress,L,blue,61,"A blue coloured, L sized, Dress Shirt",104.0
+59,Shirt,Dress,XL,blue,66,"A blue coloured, XL sized, Dress Shirt",104.0
+60,Shirt,Dress,XS,indigo,56,"A indigo coloured, XS sized, Dress Shirt",104.0
+61,Shirt,Dress,S,indigo,40,"A indigo coloured, S sized, Dress Shirt",104.0
+62,Shirt,Dress,M,indigo,51,"A indigo coloured, M sized, Dress Shirt",104.0
+63,Shirt,Dress,L,indigo,71,"A indigo coloured, L sized, Dress Shirt",104.0
+64,Shirt,Dress,XL,indigo,75,"A indigo coloured, XL sized, Dress Shirt",104.0
+65,Shirt,Dress,XS,violet,63,"A violet coloured, XS sized, Dress Shirt",104.0
+66,Shirt,Dress,S,violet,69,"A violet coloured, S sized, Dress Shirt",104.0
+67,Shirt,Dress,M,violet,41,"A violet coloured, M sized, Dress Shirt",104.0
+68,Shirt,Dress,L,violet,74,"A violet coloured, L sized, Dress Shirt",104.0
+69,Shirt,Dress,XL,violet,77,"A violet coloured, XL sized, Dress Shirt",104.0
+70,Shirt,Flannel,XS,red,42,"A red coloured, XS sized, Flannel Shirt",118.0
+71,Shirt,Flannel,S,red,59,"A red coloured, S sized, Flannel Shirt",118.0
+72,Shirt,Flannel,M,red,68,"A red coloured, M sized, Flannel Shirt",118.0
+73,Shirt,Flannel,L,red,77,"A red coloured, L sized, Flannel Shirt",118.0
+74,Shirt,Flannel,XL,red,72,"A red coloured, XL sized, Flannel Shirt",118.0
+75,Shirt,Flannel,XS,orange,42,"A orange coloured, XS sized, Flannel Shirt",118.0
+77,Shirt,Flannel,M,orange,68,"A orange coloured, M sized, Flannel Shirt",118.0
+78,Shirt,Flannel,L,orange,59,"A orange coloured, L sized, Flannel Shirt",118.0
+79,Shirt,Flannel,XL,orange,50,"A orange coloured, XL sized, Flannel Shirt",118.0
+80,Shirt,Flannel,XS,yellow,41,"A yellow coloured, XS sized, Flannel Shirt",118.0
+81,Shirt,Flannel,S,yellow,42,"A yellow coloured, S sized, Flannel Shirt",118.0
+82,Shirt,Flannel,M,yellow,59,"A yellow coloured, M sized, Flannel Shirt",118.0
+83,Shirt,Flannel,L,yellow,80,"A yellow coloured, L sized, Flannel Shirt",118.0
+84,Shirt,Flannel,XL,yellow,72,"A yellow coloured, XL sized, Flannel Shirt",118.0
+85,Shirt,Flannel,XS,green,55,"A green coloured, XS sized, Flannel Shirt",118.0
+86,Shirt,Flannel,S,green,57,"A green coloured, S sized, Flannel Shirt",118.0
+87,Shirt,Flannel,M,green,66,"A green coloured, M sized, Flannel Shirt",118.0
+88,Shirt,Flannel,L,green,72,"A green coloured, L sized, Flannel Shirt",118.0
+89,Shirt,Flannel,XL,green,77,"A green coloured, XL sized, Flannel Shirt",118.0
+90,Shirt,Flannel,XS,blue,62,"A blue coloured, XS sized, Flannel Shirt",118.0
+91,Shirt,Flannel,S,blue,43,"A blue coloured, S sized, Flannel Shirt",118.0
+92,Shirt,Flannel,M,blue,73,"A blue coloured, M sized, Flannel Shirt",118.0
+93,Shirt,Flannel,L,blue,44,"A blue coloured, L sized, Flannel Shirt",118.0
+94,Shirt,Flannel,XL,blue,61,"A blue coloured, XL sized, Flannel Shirt",118.0
+95,Shirt,Flannel,XS,indigo,46,"A indigo coloured, XS sized, Flannel Shirt",118.0
+96,Shirt,Flannel,S,indigo,74,"A indigo coloured, S sized, Flannel Shirt",118.0
+97,Shirt,Flannel,M,indigo,69,"A indigo coloured, M sized, Flannel Shirt",118.0
+98,Shirt,Flannel,L,indigo,62,"A indigo coloured, L sized, Flannel Shirt",118.0
+99,Shirt,Flannel,XL,indigo,57,"A indigo coloured, XL sized, Flannel Shirt",118.0
+100,Shirt,Flannel,XS,violet,72,"A violet coloured, XS sized, Flannel Shirt",118.0
+101,Shirt,Flannel,S,violet,70,"A violet coloured, S sized, Flannel Shirt",118.0
+102,Shirt,Flannel,M,violet,71,"A violet coloured, M sized, Flannel Shirt",118.0
+103,Shirt,Flannel,L,violet,76,"A violet coloured, L sized, Flannel Shirt",118.0
+104,Shirt,Flannel,XL,violet,43,"A violet coloured, XL sized, Flannel Shirt",118.0
+105,Shirt,Denim,XS,red,52,"A red coloured, XS sized, Denim Shirt",92.0
+106,Shirt,Denim,S,red,57,"A red coloured, S sized, Denim Shirt",92.0
+107,Shirt,Denim,M,red,49,"A red coloured, M sized, Denim Shirt",92.0
+108,Shirt,Denim,L,red,52,"A red coloured, L sized, Denim Shirt",92.0
+109,Shirt,Denim,XL,red,63,"A red coloured, XL sized, Denim Shirt",92.0
+110,Shirt,Denim,XS,orange,45,"A orange coloured, XS sized, Denim Shirt",92.0
+111,Shirt,Denim,S,orange,69,"A orange coloured, S sized, Denim Shirt",92.0
+112,Shirt,Denim,M,orange,50,"A orange coloured, M sized, Denim Shirt",92.0
+113,Shirt,Denim,L,orange,45,"A orange coloured, L sized, Denim Shirt",92.0
+114,Shirt,Denim,XL,orange,67,"A orange coloured, XL sized, Denim Shirt",92.0
+115,Shirt,Denim,XS,yellow,54,"A yellow coloured, XS sized, Denim Shirt",92.0
+116,Shirt,Denim,S,yellow,75,"A yellow coloured, S sized, Denim Shirt",92.0
+117,Shirt,Denim,M,yellow,67,"A yellow coloured, M sized, Denim Shirt",92.0
+118,Shirt,Denim,L,yellow,75,"A yellow coloured, L sized, Denim Shirt",92.0
+119,Shirt,Denim,XL,yellow,74,"A yellow coloured, XL sized, Denim Shirt",92.0
+120,Shirt,Denim,XS,green,66,"A green coloured, XS sized, Denim Shirt",92.0
+121,Shirt,Denim,S,green,49,"A green coloured, S sized, Denim Shirt",92.0
+122,Shirt,Denim,M,green,66,"A green coloured, M sized, Denim Shirt",92.0
+123,Shirt,Denim,L,green,71,"A green coloured, L sized, Denim Shirt",92.0
+124,Shirt,Denim,XL,green,52,"A green coloured, XL sized, Denim Shirt",92.0
+125,Shirt,Denim,XS,blue,76,"A blue coloured, XS sized, Denim Shirt",92.0
+126,Shirt,Denim,S,blue,47,"A blue coloured, S sized, Denim Shirt",92.0
+127,Shirt,Denim,M,blue,58,"A blue coloured, M sized, Denim Shirt",92.0
+128,Shirt,Denim,L,blue,45,"A blue coloured, L sized, Denim Shirt",92.0
+129,Shirt,Denim,XL,blue,73,"A blue coloured, XL sized, Denim Shirt",92.0
+130,Shirt,Denim,XS,indigo,79,"A indigo coloured, XS sized, Denim Shirt",92.0
+131,Shirt,Denim,S,indigo,69,"A indigo coloured, S sized, Denim Shirt",92.0
+132,Shirt,Denim,M,indigo,56,"A indigo coloured, M sized, Denim Shirt",92.0
+133,Shirt,Denim,L,indigo,58,"A indigo coloured, L sized, Denim Shirt",92.0
+134,Shirt,Denim,XL,indigo,58,"A indigo coloured, XL sized, Denim Shirt",92.0
+135,Shirt,Denim,XS,violet,73,"A violet coloured, XS sized, Denim Shirt",92.0
+136,Shirt,Denim,S,violet,54,"A violet coloured, S sized, Denim Shirt",92.0
+137,Shirt,Denim,M,violet,55,"A violet coloured, M sized, Denim Shirt",92.0
+138,Shirt,Denim,L,violet,78,"A violet coloured, L sized, Denim Shirt",92.0
+139,Shirt,Denim,XL,violet,73,"A violet coloured, XL sized, Denim Shirt",92.0
+140,Shirt,Linen,XS,red,61,"A red coloured, XS sized, Linen Shirt",91.0
+141,Shirt,Linen,S,red,67,"A red coloured, S sized, Linen Shirt",91.0
+142,Shirt,Linen,M,red,78,"A red coloured, M sized, Linen Shirt",91.0
+143,Shirt,Linen,L,red,80,"A red coloured, L sized, Linen Shirt",91.0
+144,Shirt,Linen,XL,red,47,"A red coloured, XL sized, Linen Shirt",91.0
+145,Shirt,Linen,XS,orange,70,"A orange coloured, XS sized, Linen Shirt",91.0
+146,Shirt,Linen,S,orange,42,"A orange coloured, S sized, Linen Shirt",91.0
+147,Shirt,Linen,M,orange,42,"A orange coloured, M sized, Linen Shirt",91.0
+148,Shirt,Linen,L,orange,73,"A orange coloured, L sized, Linen Shirt",91.0
+149,Shirt,Linen,XL,orange,59,"A orange coloured, XL sized, Linen Shirt",91.0
+150,Shirt,Linen,XS,yellow,55,"A yellow coloured, XS sized, Linen Shirt",91.0
+151,Shirt,Linen,S,yellow,60,"A yellow coloured, S sized, Linen Shirt",91.0
+152,Shirt,Linen,M,yellow,59,"A yellow coloured, M sized, Linen Shirt",91.0
+153,Shirt,Linen,L,yellow,72,"A yellow coloured, L sized, Linen Shirt",91.0
+154,Shirt,Linen,XL,yellow,54,"A yellow coloured, XL sized, Linen Shirt",91.0
+155,Shirt,Linen,XS,green,49,"A green coloured, XS sized, Linen Shirt",91.0
+156,Shirt,Linen,S,green,58,"A green coloured, S sized, Linen Shirt",91.0
+157,Shirt,Linen,M,green,42,"A green coloured, M sized, Linen Shirt",91.0
+158,Shirt,Linen,L,green,72,"A green coloured, L sized, Linen Shirt",91.0
+159,Shirt,Linen,XL,green,51,"A green coloured, XL sized, Linen Shirt",91.0
+160,Shirt,Linen,XS,blue,53,"A blue coloured, XS sized, Linen Shirt",91.0
+161,Shirt,Linen,S,blue,77,"A blue coloured, S sized, Linen Shirt",91.0
+162,Shirt,Linen,M,blue,58,"A blue coloured, M sized, Linen Shirt",91.0
+163,Shirt,Linen,L,blue,70,"A blue coloured, L sized, Linen Shirt",91.0
+164,Shirt,Linen,XL,blue,47,"A blue coloured, XL sized, Linen Shirt",91.0
+165,Shirt,Linen,XS,indigo,70,"A indigo coloured, XS sized, Linen Shirt",91.0
+166,Shirt,Linen,S,indigo,72,"A indigo coloured, S sized, Linen Shirt",91.0
+167,Shirt,Linen,M,indigo,72,"A indigo coloured, M sized, Linen Shirt",91.0
+168,Shirt,Linen,L,indigo,75,"A indigo coloured, L sized, Linen Shirt",91.0
+169,Shirt,Linen,XL,indigo,66,"A indigo coloured, XL sized, Linen Shirt",91.0
+170,Shirt,Linen,XS,violet,56,"A violet coloured, XS sized, Linen Shirt",91.0
+171,Shirt,Linen,S,violet,44,"A violet coloured, S sized, Linen Shirt",91.0
+172,Shirt,Linen,M,violet,44,"A violet coloured, M sized, Linen Shirt",91.0
+173,Shirt,Linen,L,violet,70,"A violet coloured, L sized, Linen Shirt",91.0
+174,Shirt,Linen,XL,violet,73,"A violet coloured, XL sized, Linen Shirt",91.0
+175,Shirt,Camp Collared,XS,red,77,"A red coloured, XS sized, Camp Collared Shirt",98.0
+176,Shirt,Camp Collared,S,red,67,"A red coloured, S sized, Camp Collared Shirt",98.0
+177,Shirt,Camp Collared,M,red,64,"A red coloured, M sized, Camp Collared Shirt",98.0
+178,Shirt,Camp Collared,L,red,52,"A red coloured, L sized, Camp Collared Shirt",98.0
+179,Shirt,Camp Collared,XL,red,79,"A red coloured, XL sized, Camp Collared Shirt",98.0
+180,Shirt,Camp Collared,XS,orange,52,"A orange coloured, XS sized, Camp Collared Shirt",98.0
+181,Shirt,Camp Collared,S,orange,62,"A orange coloured, S sized, Camp Collared Shirt",98.0
+182,Shirt,Camp Collared,M,orange,65,"A orange coloured, M sized, Camp Collared Shirt",98.0
+183,Shirt,Camp Collared,L,orange,63,"A orange coloured, L sized, Camp Collared Shirt",98.0
+184,Shirt,Camp Collared,XL,orange,48,"A orange coloured, XL sized, Camp Collared Shirt",98.0
+185,Shirt,Camp Collared,XS,yellow,55,"A yellow coloured, XS sized, Camp Collared Shirt",98.0
+186,Shirt,Camp Collared,S,yellow,66,"A yellow coloured, S sized, Camp Collared Shirt",98.0
+187,Shirt,Camp Collared,M,yellow,49,"A yellow coloured, M sized, Camp Collared Shirt",98.0
+188,Shirt,Camp Collared,L,yellow,71,"A yellow coloured, L sized, Camp Collared Shirt",98.0
+189,Shirt,Camp Collared,XL,yellow,44,"A yellow coloured, XL sized, Camp Collared Shirt",98.0
+190,Shirt,Camp Collared,XS,green,66,"A green coloured, XS sized, Camp Collared Shirt",98.0
+191,Shirt,Camp Collared,S,green,60,"A green coloured, S sized, Camp Collared Shirt",98.0
+192,Shirt,Camp Collared,M,green,41,"A green coloured, M sized, Camp Collared Shirt",98.0
+193,Shirt,Camp Collared,L,green,80,"A green coloured, L sized, Camp Collared Shirt",98.0
+194,Shirt,Camp Collared,XL,green,61,"A green coloured, XL sized, Camp Collared Shirt",98.0
+195,Shirt,Camp Collared,XS,blue,47,"A blue coloured, XS sized, Camp Collared Shirt",98.0
+196,Shirt,Camp Collared,S,blue,75,"A blue coloured, S sized, Camp Collared Shirt",98.0
+197,Shirt,Camp Collared,M,blue,65,"A blue coloured, M sized, Camp Collared Shirt",98.0
+198,Shirt,Camp Collared,L,blue,56,"A blue coloured, L sized, Camp Collared Shirt",98.0
+199,Shirt,Camp Collared,XL,blue,51,"A blue coloured, XL sized, Camp Collared Shirt",98.0
+200,Shirt,Camp Collared,XS,indigo,64,"A indigo coloured, XS sized, Camp Collared Shirt",98.0
+201,Shirt,Camp Collared,S,indigo,50,"A indigo coloured, S sized, Camp Collared Shirt",98.0
+202,Shirt,Camp Collared,M,indigo,52,"A indigo coloured, M sized, Camp Collared Shirt",98.0
+203,Shirt,Camp Collared,L,indigo,72,"A indigo coloured, L sized, Camp Collared Shirt",98.0
+204,Shirt,Camp Collared,XL,indigo,42,"A indigo coloured, XL sized, Camp Collared Shirt",98.0
+205,Shirt,Camp Collared,XS,violet,72,"A violet coloured, XS sized, Camp Collared Shirt",98.0
+206,Shirt,Camp Collared,S,violet,80,"A violet coloured, S sized, Camp Collared Shirt",98.0
+207,Shirt,Camp Collared,M,violet,41,"A violet coloured, M sized, Camp Collared Shirt",98.0
+208,Shirt,Camp Collared,L,violet,42,"A violet coloured, L sized, Camp Collared Shirt",98.0
+209,Shirt,Camp Collared,XL,violet,40,"A violet coloured, XL sized, Camp Collared Shirt",98.0
+210,Shirt,Chambray,XS,red,48,"A red coloured, XS sized, Chambray Shirt",106.0
+211,Shirt,Chambray,S,red,72,"A red coloured, S sized, Chambray Shirt",106.0
+212,Shirt,Chambray,M,red,48,"A red coloured, M sized, Chambray Shirt",106.0
+213,Shirt,Chambray,L,red,44,"A red coloured, L sized, Chambray Shirt",106.0
+214,Shirt,Chambray,XL,red,42,"A red coloured, XL sized, Chambray Shirt",106.0
+215,Shirt,Chambray,XS,orange,76,"A orange coloured, XS sized, Chambray Shirt",106.0
+216,Shirt,Chambray,S,orange,69,"A orange coloured, S sized, Chambray Shirt",106.0
+217,Shirt,Chambray,M,orange,43,"A orange coloured, M sized, Chambray Shirt",106.0
+218,Shirt,Chambray,L,orange,44,"A orange coloured, L sized, Chambray Shirt",106.0
+219,Shirt,Chambray,XL,orange,57,"A orange coloured, XL sized, Chambray Shirt",106.0
+220,Shirt,Chambray,XS,yellow,57,"A yellow coloured, XS sized, Chambray Shirt",106.0
+221,Shirt,Chambray,S,yellow,40,"A yellow coloured, S sized, Chambray Shirt",106.0
+222,Shirt,Chambray,M,yellow,62,"A yellow coloured, M sized, Chambray Shirt",106.0
+223,Shirt,Chambray,L,yellow,53,"A yellow coloured, L sized, Chambray Shirt",106.0
+224,Shirt,Chambray,XL,yellow,53,"A yellow coloured, XL sized, Chambray Shirt",106.0
+225,Shirt,Chambray,XS,green,50,"A green coloured, XS sized, Chambray Shirt",106.0
+226,Shirt,Chambray,S,green,63,"A green coloured, S sized, Chambray Shirt",106.0
+227,Shirt,Chambray,M,green,56,"A green coloured, M sized, Chambray Shirt",106.0
+229,Shirt,Chambray,XL,green,58,"A green coloured, XL sized, Chambray Shirt",106.0
+230,Shirt,Chambray,XS,blue,76,"A blue coloured, XS sized, Chambray Shirt",106.0
+231,Shirt,Chambray,S,blue,61,"A blue coloured, S sized, Chambray Shirt",106.0
+232,Shirt,Chambray,M,blue,66,"A blue coloured, M sized, Chambray Shirt",106.0
+233,Shirt,Chambray,L,blue,69,"A blue coloured, L sized, Chambray Shirt",106.0
+234,Shirt,Chambray,XL,blue,43,"A blue coloured, XL sized, Chambray Shirt",106.0
+235,Shirt,Chambray,XS,indigo,75,"A indigo coloured, XS sized, Chambray Shirt",106.0
+236,Shirt,Chambray,S,indigo,59,"A indigo coloured, S sized, Chambray Shirt",106.0
+237,Shirt,Chambray,M,indigo,62,"A indigo coloured, M sized, Chambray Shirt",106.0
+238,Shirt,Chambray,L,indigo,79,"A indigo coloured, L sized, Chambray Shirt",106.0
+239,Shirt,Chambray,XL,indigo,61,"A indigo coloured, XL sized, Chambray Shirt",106.0
+240,Shirt,Chambray,XS,violet,47,"A violet coloured, XS sized, Chambray Shirt",106.0
+241,Shirt,Chambray,S,violet,52,"A violet coloured, S sized, Chambray Shirt",106.0
+242,Shirt,Chambray,M,violet,72,"A violet coloured, M sized, Chambray Shirt",106.0
+243,Shirt,Chambray,L,violet,53,"A violet coloured, L sized, Chambray Shirt",106.0
+244,Shirt,Chambray,XL,violet,54,"A violet coloured, XL sized, Chambray Shirt",106.0
+245,Shirt,Polo,XS,red,40,"A red coloured, XS sized, Polo Shirt",95.0
+246,Shirt,Polo,S,red,60,"A red coloured, S sized, Polo Shirt",95.0
+247,Shirt,Polo,M,red,70,"A red coloured, M sized, Polo Shirt",95.0
+248,Shirt,Polo,L,red,72,"A red coloured, L sized, Polo Shirt",95.0
+249,Shirt,Polo,XL,red,76,"A red coloured, XL sized, Polo Shirt",95.0
+250,Shirt,Polo,XS,orange,75,"A orange coloured, XS sized, Polo Shirt",95.0
+251,Shirt,Polo,S,orange,78,"A orange coloured, S sized, Polo Shirt",95.0
+252,Shirt,Polo,M,orange,67,"A orange coloured, M sized, Polo Shirt",95.0
+253,Shirt,Polo,L,orange,63,"A orange coloured, L sized, Polo Shirt",95.0
+254,Shirt,Polo,XL,orange,43,"A orange coloured, XL sized, Polo Shirt",95.0
+255,Shirt,Polo,XS,yellow,79,"A yellow coloured, XS sized, Polo Shirt",95.0
+256,Shirt,Polo,S,yellow,77,"A yellow coloured, S sized, Polo Shirt",95.0
+257,Shirt,Polo,M,yellow,52,"A yellow coloured, M sized, Polo Shirt",95.0
+258,Shirt,Polo,L,yellow,46,"A yellow coloured, L sized, Polo Shirt",95.0
+259,Shirt,Polo,XL,yellow,46,"A yellow coloured, XL sized, Polo Shirt",95.0
+260,Shirt,Polo,XS,green,45,"A green coloured, XS sized, Polo Shirt",95.0
+261,Shirt,Polo,S,green,71,"A green coloured, S sized, Polo Shirt",95.0
+262,Shirt,Polo,M,green,62,"A green coloured, M sized, Polo Shirt",95.0
+263,Shirt,Polo,L,green,68,"A green coloured, L sized, Polo Shirt",95.0
+264,Shirt,Polo,XL,green,61,"A green coloured, XL sized, Polo Shirt",95.0
+265,Shirt,Polo,XS,blue,56,"A blue coloured, XS sized, Polo Shirt",95.0
+266,Shirt,Polo,S,blue,76,"A blue coloured, S sized, Polo Shirt",95.0
+267,Shirt,Polo,M,blue,49,"A blue coloured, M sized, Polo Shirt",95.0
+268,Shirt,Polo,L,blue,77,"A blue coloured, L sized, Polo Shirt",95.0
+269,Shirt,Polo,XL,blue,70,"A blue coloured, XL sized, Polo Shirt",95.0
+270,Shirt,Polo,XS,indigo,47,"A indigo coloured, XS sized, Polo Shirt",95.0
+271,Shirt,Polo,S,indigo,50,"A indigo coloured, S sized, Polo Shirt",95.0
+272,Shirt,Polo,M,indigo,62,"A indigo coloured, M sized, Polo Shirt",95.0
+273,Shirt,Polo,L,indigo,60,"A indigo coloured, L sized, Polo Shirt",95.0
+274,Shirt,Polo,XL,indigo,56,"A indigo coloured, XL sized, Polo Shirt",95.0
+275,Shirt,Polo,XS,violet,67,"A violet coloured, XS sized, Polo Shirt",95.0
+276,Shirt,Polo,S,violet,43,"A violet coloured, S sized, Polo Shirt",95.0
+277,Shirt,Polo,M,violet,77,"A violet coloured, M sized, Polo Shirt",95.0
+278,Shirt,Polo,L,violet,76,"A violet coloured, L sized, Polo Shirt",95.0
+279,Shirt,Polo,XL,violet,79,"A violet coloured, XL sized, Polo Shirt",95.0
+280,Shirt,Cuban Collar,XS,red,56,"A red coloured, XS sized, Cuban Collar Shirt",105.0
+281,Shirt,Cuban Collar,S,red,59,"A red coloured, S sized, Cuban Collar Shirt",105.0
+282,Shirt,Cuban Collar,M,red,53,"A red coloured, M sized, Cuban Collar Shirt",105.0
+283,Shirt,Cuban Collar,L,red,45,"A red coloured, L sized, Cuban Collar Shirt",105.0
+284,Shirt,Cuban Collar,XL,red,65,"A red coloured, XL sized, Cuban Collar Shirt",105.0
+285,Shirt,Cuban Collar,XS,orange,62,"A orange coloured, XS sized, Cuban Collar Shirt",105.0
+286,Shirt,Cuban Collar,S,orange,50,"A orange coloured, S sized, Cuban Collar Shirt",105.0
+287,Shirt,Cuban Collar,M,orange,49,"A orange coloured, M sized, Cuban Collar Shirt",105.0
+288,Shirt,Cuban Collar,L,orange,65,"A orange coloured, L sized, Cuban Collar Shirt",105.0
+289,Shirt,Cuban Collar,XL,orange,49,"A orange coloured, XL sized, Cuban Collar Shirt",105.0
+290,Shirt,Cuban Collar,XS,yellow,78,"A yellow coloured, XS sized, Cuban Collar Shirt",105.0
+291,Shirt,Cuban Collar,S,yellow,41,"A yellow coloured, S sized, Cuban Collar Shirt",105.0
+292,Shirt,Cuban Collar,M,yellow,49,"A yellow coloured, M sized, Cuban Collar Shirt",105.0
+293,Shirt,Cuban Collar,L,yellow,77,"A yellow coloured, L sized, Cuban Collar Shirt",105.0
+294,Shirt,Cuban Collar,XL,yellow,76,"A yellow coloured, XL sized, Cuban Collar Shirt",105.0
+295,Shirt,Cuban Collar,XS,green,63,"A green coloured, XS sized, Cuban Collar Shirt",105.0
+296,Shirt,Cuban Collar,S,green,58,"A green coloured, S sized, Cuban Collar Shirt",105.0
+297,Shirt,Cuban Collar,M,green,45,"A green coloured, M sized, Cuban Collar Shirt",105.0
+298,Shirt,Cuban Collar,L,green,58,"A green coloured, L sized, Cuban Collar Shirt",105.0
+299,Shirt,Cuban Collar,XL,green,60,"A green coloured, XL sized, Cuban Collar Shirt",105.0
+300,Shirt,Cuban Collar,XS,blue,56,"A blue coloured, XS sized, Cuban Collar Shirt",105.0
+301,Shirt,Cuban Collar,S,blue,62,"A blue coloured, S sized, Cuban Collar Shirt",105.0
+302,Shirt,Cuban Collar,M,blue,55,"A blue coloured, M sized, Cuban Collar Shirt",105.0
+303,Shirt,Cuban Collar,L,blue,65,"A blue coloured, L sized, Cuban Collar Shirt",105.0
+304,Shirt,Cuban Collar,XL,blue,73,"A blue coloured, XL sized, Cuban Collar Shirt",105.0
+305,Shirt,Cuban Collar,XS,indigo,50,"A indigo coloured, XS sized, Cuban Collar Shirt",105.0
+306,Shirt,Cuban Collar,S,indigo,41,"A indigo coloured, S sized, Cuban Collar Shirt",105.0
+307,Shirt,Cuban Collar,M,indigo,58,"A indigo coloured, M sized, Cuban Collar Shirt",105.0
+308,Shirt,Cuban Collar,L,indigo,65,"A indigo coloured, L sized, Cuban Collar Shirt",105.0
+309,Shirt,Cuban Collar,XL,indigo,53,"A indigo coloured, XL sized, Cuban Collar Shirt",105.0
+310,Shirt,Cuban Collar,XS,violet,49,"A violet coloured, XS sized, Cuban Collar Shirt",105.0
+311,Shirt,Cuban Collar,S,violet,43,"A violet coloured, S sized, Cuban Collar Shirt",105.0
+312,Shirt,Cuban Collar,M,violet,67,"A violet coloured, M sized, Cuban Collar Shirt",105.0
+313,Shirt,Cuban Collar,L,violet,78,"A violet coloured, L sized, Cuban Collar Shirt",105.0
+314,Shirt,Cuban Collar,XL,violet,44,"A violet coloured, XL sized, Cuban Collar Shirt",105.0
+316,Shirt,Mandarin Collar,S,red,48,"A red coloured, S sized, Mandarin Collar Shirt",109.0
+317,Shirt,Mandarin Collar,M,red,60,"A red coloured, M sized, Mandarin Collar Shirt",109.0
+318,Shirt,Mandarin Collar,L,red,54,"A red coloured, L sized, Mandarin Collar Shirt",109.0
+319,Shirt,Mandarin Collar,XL,red,64,"A red coloured, XL sized, Mandarin Collar Shirt",109.0
+320,Shirt,Mandarin Collar,XS,orange,68,"A orange coloured, XS sized, Mandarin Collar Shirt",109.0
+321,Shirt,Mandarin Collar,S,orange,52,"A orange coloured, S sized, Mandarin Collar Shirt",109.0
+322,Shirt,Mandarin Collar,M,orange,78,"A orange coloured, M sized, Mandarin Collar Shirt",109.0
+323,Shirt,Mandarin Collar,L,orange,56,"A orange coloured, L sized, Mandarin Collar Shirt",109.0
+324,Shirt,Mandarin Collar,XL,orange,59,"A orange coloured, XL sized, Mandarin Collar Shirt",109.0
+325,Shirt,Mandarin Collar,XS,yellow,45,"A yellow coloured, XS sized, Mandarin Collar Shirt",109.0
+326,Shirt,Mandarin Collar,S,yellow,76,"A yellow coloured, S sized, Mandarin Collar Shirt",109.0
+327,Shirt,Mandarin Collar,M,yellow,58,"A yellow coloured, M sized, Mandarin Collar Shirt",109.0
+328,Shirt,Mandarin Collar,L,yellow,78,"A yellow coloured, L sized, Mandarin Collar Shirt",109.0
+329,Shirt,Mandarin Collar,XL,yellow,43,"A yellow coloured, XL sized, Mandarin Collar Shirt",109.0
+330,Shirt,Mandarin Collar,XS,green,63,"A green coloured, XS sized, Mandarin Collar Shirt",109.0
+331,Shirt,Mandarin Collar,S,green,74,"A green coloured, S sized, Mandarin Collar Shirt",109.0
+332,Shirt,Mandarin Collar,M,green,57,"A green coloured, M sized, Mandarin Collar Shirt",109.0
+333,Shirt,Mandarin Collar,L,green,67,"A green coloured, L sized, Mandarin Collar Shirt",109.0
+334,Shirt,Mandarin Collar,XL,green,79,"A green coloured, XL sized, Mandarin Collar Shirt",109.0
+335,Shirt,Mandarin Collar,XS,blue,59,"A blue coloured, XS sized, Mandarin Collar Shirt",109.0
+336,Shirt,Mandarin Collar,S,blue,44,"A blue coloured, S sized, Mandarin Collar Shirt",109.0
+337,Shirt,Mandarin Collar,M,blue,76,"A blue coloured, M sized, Mandarin Collar Shirt",109.0
+338,Shirt,Mandarin Collar,L,blue,68,"A blue coloured, L sized, Mandarin Collar Shirt",109.0
+339,Shirt,Mandarin Collar,XL,blue,71,"A blue coloured, XL sized, Mandarin Collar Shirt",109.0
+340,Shirt,Mandarin Collar,XS,indigo,80,"A indigo coloured, XS sized, Mandarin Collar Shirt",109.0
+341,Shirt,Mandarin Collar,S,indigo,60,"A indigo coloured, S sized, Mandarin Collar Shirt",109.0
+342,Shirt,Mandarin Collar,M,indigo,51,"A indigo coloured, M sized, Mandarin Collar Shirt",109.0
+343,Shirt,Mandarin Collar,L,indigo,53,"A indigo coloured, L sized, Mandarin Collar Shirt",109.0
+344,Shirt,Mandarin Collar,XL,indigo,77,"A indigo coloured, XL sized, Mandarin Collar Shirt",109.0
+345,Shirt,Mandarin Collar,XS,violet,52,"A violet coloured, XS sized, Mandarin Collar Shirt",109.0
+346,Shirt,Mandarin Collar,S,violet,73,"A violet coloured, S sized, Mandarin Collar Shirt",109.0
+347,Shirt,Mandarin Collar,M,violet,76,"A violet coloured, M sized, Mandarin Collar Shirt",109.0
+348,Shirt,Mandarin Collar,L,violet,54,"A violet coloured, L sized, Mandarin Collar Shirt",109.0
+349,Shirt,Mandarin Collar,XL,violet,71,"A violet coloured, XL sized, Mandarin Collar Shirt",109.0
+350,Shirt,Henley,XS,red,62,"A red coloured, XS sized, Henley Shirt",94.0
+351,Shirt,Henley,S,red,60,"A red coloured, S sized, Henley Shirt",94.0
+352,Shirt,Henley,M,red,52,"A red coloured, M sized, Henley Shirt",94.0
+353,Shirt,Henley,L,red,62,"A red coloured, L sized, Henley Shirt",94.0
+354,Shirt,Henley,XL,red,59,"A red coloured, XL sized, Henley Shirt",94.0
+355,Shirt,Henley,XS,orange,65,"A orange coloured, XS sized, Henley Shirt",94.0
+356,Shirt,Henley,S,orange,46,"A orange coloured, S sized, Henley Shirt",94.0
+357,Shirt,Henley,M,orange,70,"A orange coloured, M sized, Henley Shirt",94.0
+358,Shirt,Henley,L,orange,77,"A orange coloured, L sized, Henley Shirt",94.0
+359,Shirt,Henley,XL,orange,52,"A orange coloured, XL sized, Henley Shirt",94.0
+360,Shirt,Henley,XS,yellow,42,"A yellow coloured, XS sized, Henley Shirt",94.0
+361,Shirt,Henley,S,yellow,70,"A yellow coloured, S sized, Henley Shirt",94.0
+362,Shirt,Henley,M,yellow,71,"A yellow coloured, M sized, Henley Shirt",94.0
+363,Shirt,Henley,L,yellow,62,"A yellow coloured, L sized, Henley Shirt",94.0
+364,Shirt,Henley,XL,yellow,55,"A yellow coloured, XL sized, Henley Shirt",94.0
+365,Shirt,Henley,XS,green,61,"A green coloured, XS sized, Henley Shirt",94.0
+366,Shirt,Henley,S,green,68,"A green coloured, S sized, Henley Shirt",94.0
+367,Shirt,Henley,M,green,65,"A green coloured, M sized, Henley Shirt",94.0
+368,Shirt,Henley,L,green,41,"A green coloured, L sized, Henley Shirt",94.0
+369,Shirt,Henley,XL,green,64,"A green coloured, XL sized, Henley Shirt",94.0
+370,Shirt,Henley,XS,blue,61,"A blue coloured, XS sized, Henley Shirt",94.0
+371,Shirt,Henley,S,blue,75,"A blue coloured, S sized, Henley Shirt",94.0
+372,Shirt,Henley,M,blue,42,"A blue coloured, M sized, Henley Shirt",94.0
+373,Shirt,Henley,L,blue,60,"A blue coloured, L sized, Henley Shirt",94.0
+374,Shirt,Henley,XL,blue,75,"A blue coloured, XL sized, Henley Shirt",94.0
+375,Shirt,Henley,XS,indigo,58,"A indigo coloured, XS sized, Henley Shirt",94.0
+376,Shirt,Henley,S,indigo,45,"A indigo coloured, S sized, Henley Shirt",94.0
+377,Shirt,Henley,M,indigo,70,"A indigo coloured, M sized, Henley Shirt",94.0
+378,Shirt,Henley,L,indigo,44,"A indigo coloured, L sized, Henley Shirt",94.0
+379,Shirt,Henley,XL,indigo,52,"A indigo coloured, XL sized, Henley Shirt",94.0
+380,Shirt,Henley,XS,violet,50,"A violet coloured, XS sized, Henley Shirt",94.0
+381,Shirt,Henley,S,violet,43,"A violet coloured, S sized, Henley Shirt",94.0
+382,Shirt,Henley,M,violet,44,"A violet coloured, M sized, Henley Shirt",94.0
+383,Shirt,Henley,L,violet,51,"A violet coloured, L sized, Henley Shirt",94.0
+384,Shirt,Henley,XL,violet,77,"A violet coloured, XL sized, Henley Shirt",94.0
+385,Shirt,Casual Slim Fit,XS,red,49,"A red coloured, XS sized, Casual Slim Fit Shirt",119.0
+386,Shirt,Casual Slim Fit,S,red,50,"A red coloured, S sized, Casual Slim Fit Shirt",119.0
+387,Shirt,Casual Slim Fit,M,red,67,"A red coloured, M sized, Casual Slim Fit Shirt",119.0
+388,Shirt,Casual Slim Fit,L,red,78,"A red coloured, L sized, Casual Slim Fit Shirt",119.0
+389,Shirt,Casual Slim Fit,XL,red,47,"A red coloured, XL sized, Casual Slim Fit Shirt",119.0
+390,Shirt,Casual Slim Fit,XS,orange,43,"A orange coloured, XS sized, Casual Slim Fit Shirt",119.0
+391,Shirt,Casual Slim Fit,S,orange,54,"A orange coloured, S sized, Casual Slim Fit Shirt",119.0
+392,Shirt,Casual Slim Fit,M,orange,47,"A orange coloured, M sized, Casual Slim Fit Shirt",119.0
+393,Shirt,Casual Slim Fit,L,orange,76,"A orange coloured, L sized, Casual Slim Fit Shirt",119.0
+394,Shirt,Casual Slim Fit,XL,orange,53,"A orange coloured, XL sized, Casual Slim Fit Shirt",119.0
+395,Shirt,Casual Slim Fit,XS,yellow,63,"A yellow coloured, XS sized, Casual Slim Fit Shirt",119.0
+396,Shirt,Casual Slim Fit,S,yellow,45,"A yellow coloured, S sized, Casual Slim Fit Shirt",119.0
+397,Shirt,Casual Slim Fit,M,yellow,76,"A yellow coloured, M sized, Casual Slim Fit Shirt",119.0
+398,Shirt,Casual Slim Fit,L,yellow,63,"A yellow coloured, L sized, Casual Slim Fit Shirt",119.0
+399,Shirt,Casual Slim Fit,XL,yellow,78,"A yellow coloured, XL sized, Casual Slim Fit Shirt",119.0
+400,Shirt,Casual Slim Fit,XS,green,69,"A green coloured, XS sized, Casual Slim Fit Shirt",119.0
+401,Shirt,Casual Slim Fit,S,green,72,"A green coloured, S sized, Casual Slim Fit Shirt",119.0
+402,Shirt,Casual Slim Fit,M,green,67,"A green coloured, M sized, Casual Slim Fit Shirt",119.0
+403,Shirt,Casual Slim Fit,L,green,54,"A green coloured, L sized, Casual Slim Fit Shirt",119.0
+404,Shirt,Casual Slim Fit,XL,green,41,"A green coloured, XL sized, Casual Slim Fit Shirt",119.0
+405,Shirt,Casual Slim Fit,XS,blue,55,"A blue coloured, XS sized, Casual Slim Fit Shirt",119.0
+406,Shirt,Casual Slim Fit,S,blue,75,"A blue coloured, S sized, Casual Slim Fit Shirt",119.0
+407,Shirt,Casual Slim Fit,M,blue,61,"A blue coloured, M sized, Casual Slim Fit Shirt",119.0
+408,Shirt,Casual Slim Fit,L,blue,75,"A blue coloured, L sized, Casual Slim Fit Shirt",119.0
+409,Shirt,Casual Slim Fit,XL,blue,68,"A blue coloured, XL sized, Casual Slim Fit Shirt",119.0
+410,Shirt,Casual Slim Fit,XS,indigo,57,"A indigo coloured, XS sized, Casual Slim Fit Shirt",119.0
+411,Shirt,Casual Slim Fit,S,indigo,65,"A indigo coloured, S sized, Casual Slim Fit Shirt",119.0
+412,Shirt,Casual Slim Fit,M,indigo,65,"A indigo coloured, M sized, Casual Slim Fit Shirt",119.0
+413,Shirt,Casual Slim Fit,L,indigo,60,"A indigo coloured, L sized, Casual Slim Fit Shirt",119.0
+414,Shirt,Casual Slim Fit,XL,indigo,40,"A indigo coloured, XL sized, Casual Slim Fit Shirt",119.0
+415,Shirt,Casual Slim Fit,XS,violet,55,"A violet coloured, XS sized, Casual Slim Fit Shirt",119.0
+416,Shirt,Casual Slim Fit,S,violet,50,"A violet coloured, S sized, Casual Slim Fit Shirt",119.0
+417,Shirt,Casual Slim Fit,M,violet,46,"A violet coloured, M sized, Casual Slim Fit Shirt",119.0
+418,Shirt,Casual Slim Fit,L,violet,65,"A violet coloured, L sized, Casual Slim Fit Shirt",119.0
+419,Shirt,Casual Slim Fit,XL,violet,57,"A violet coloured, XL sized, Casual Slim Fit Shirt",119.0
+420,Jacket,Denim,XS,red,60,"A red coloured, XS sized, Denim Jacket",107.0
+421,Jacket,Denim,S,red,69,"A red coloured, S sized, Denim Jacket",107.0
+422,Jacket,Denim,M,red,43,"A red coloured, M sized, Denim Jacket",107.0
+423,Jacket,Denim,L,red,63,"A red coloured, L sized, Denim Jacket",107.0
+424,Jacket,Denim,XL,red,58,"A red coloured, XL sized, Denim Jacket",107.0
+425,Jacket,Denim,XS,orange,60,"A orange coloured, XS sized, Denim Jacket",107.0
+426,Jacket,Denim,S,orange,51,"A orange coloured, S sized, Denim Jacket",107.0
+427,Jacket,Denim,M,orange,48,"A orange coloured, M sized, Denim Jacket",107.0
+428,Jacket,Denim,L,orange,73,"A orange coloured, L sized, Denim Jacket",107.0
+429,Jacket,Denim,XL,orange,79,"A orange coloured, XL sized, Denim Jacket",107.0
+430,Jacket,Denim,XS,yellow,52,"A yellow coloured, XS sized, Denim Jacket",107.0
+431,Jacket,Denim,S,yellow,43,"A yellow coloured, S sized, Denim Jacket",107.0
+433,Jacket,Denim,L,yellow,44,"A yellow coloured, L sized, Denim Jacket",107.0
+434,Jacket,Denim,XL,yellow,56,"A yellow coloured, XL sized, Denim Jacket",107.0
+436,Jacket,Denim,S,green,49,"A green coloured, S sized, Denim Jacket",107.0
+437,Jacket,Denim,M,green,79,"A green coloured, M sized, Denim Jacket",107.0
+438,Jacket,Denim,L,green,52,"A green coloured, L sized, Denim Jacket",107.0
+439,Jacket,Denim,XL,green,59,"A green coloured, XL sized, Denim Jacket",107.0
+440,Jacket,Denim,XS,blue,49,"A blue coloured, XS sized, Denim Jacket",107.0
+441,Jacket,Denim,S,blue,56,"A blue coloured, S sized, Denim Jacket",107.0
+442,Jacket,Denim,M,blue,61,"A blue coloured, M sized, Denim Jacket",107.0
+443,Jacket,Denim,L,blue,42,"A blue coloured, L sized, Denim Jacket",107.0
+444,Jacket,Denim,XL,blue,80,"A blue coloured, XL sized, Denim Jacket",107.0
+445,Jacket,Denim,XS,indigo,75,"A indigo coloured, XS sized, Denim Jacket",107.0
+447,Jacket,Denim,M,indigo,52,"A indigo coloured, M sized, Denim Jacket",107.0
+448,Jacket,Denim,L,indigo,67,"A indigo coloured, L sized, Denim Jacket",107.0
+449,Jacket,Denim,XL,indigo,51,"A indigo coloured, XL sized, Denim Jacket",107.0
+450,Jacket,Denim,XS,violet,65,"A violet coloured, XS sized, Denim Jacket",107.0
+451,Jacket,Denim,S,violet,73,"A violet coloured, S sized, Denim Jacket",107.0
+452,Jacket,Denim,M,violet,43,"A violet coloured, M sized, Denim Jacket",107.0
+453,Jacket,Denim,L,violet,50,"A violet coloured, L sized, Denim Jacket",107.0
+454,Jacket,Denim,XL,violet,63,"A violet coloured, XL sized, Denim Jacket",107.0
+455,Jacket,Puffer,XS,red,67,"A red coloured, XS sized, Puffer Jacket",118.0
+456,Jacket,Puffer,S,red,62,"A red coloured, S sized, Puffer Jacket",118.0
+457,Jacket,Puffer,M,red,62,"A red coloured, M sized, Puffer Jacket",118.0
+458,Jacket,Puffer,L,red,44,"A red coloured, L sized, Puffer Jacket",118.0
+459,Jacket,Puffer,XL,red,41,"A red coloured, XL sized, Puffer Jacket",118.0
+460,Jacket,Puffer,XS,orange,47,"A orange coloured, XS sized, Puffer Jacket",118.0
+461,Jacket,Puffer,S,orange,69,"A orange coloured, S sized, Puffer Jacket",118.0
+462,Jacket,Puffer,M,orange,61,"A orange coloured, M sized, Puffer Jacket",118.0
+463,Jacket,Puffer,L,orange,66,"A orange coloured, L sized, Puffer Jacket",118.0
+464,Jacket,Puffer,XL,orange,66,"A orange coloured, XL sized, Puffer Jacket",118.0
+465,Jacket,Puffer,XS,yellow,55,"A yellow coloured, XS sized, Puffer Jacket",118.0
+466,Jacket,Puffer,S,yellow,48,"A yellow coloured, S sized, Puffer Jacket",118.0
+467,Jacket,Puffer,M,yellow,44,"A yellow coloured, M sized, Puffer Jacket",118.0
+468,Jacket,Puffer,L,yellow,46,"A yellow coloured, L sized, Puffer Jacket",118.0
+469,Jacket,Puffer,XL,yellow,65,"A yellow coloured, XL sized, Puffer Jacket",118.0
+470,Jacket,Puffer,XS,green,41,"A green coloured, XS sized, Puffer Jacket",118.0
+471,Jacket,Puffer,S,green,54,"A green coloured, S sized, Puffer Jacket",118.0
+472,Jacket,Puffer,M,green,72,"A green coloured, M sized, Puffer Jacket",118.0
+473,Jacket,Puffer,L,green,43,"A green coloured, L sized, Puffer Jacket",118.0
+474,Jacket,Puffer,XL,green,42,"A green coloured, XL sized, Puffer Jacket",118.0
+475,Jacket,Puffer,XS,blue,57,"A blue coloured, XS sized, Puffer Jacket",118.0
+476,Jacket,Puffer,S,blue,76,"A blue coloured, S sized, Puffer Jacket",118.0
+477,Jacket,Puffer,M,blue,60,"A blue coloured, M sized, Puffer Jacket",118.0
+478,Jacket,Puffer,L,blue,48,"A blue coloured, L sized, Puffer Jacket",118.0
+479,Jacket,Puffer,XL,blue,80,"A blue coloured, XL sized, Puffer Jacket",118.0
+481,Jacket,Puffer,S,indigo,62,"A indigo coloured, S sized, Puffer Jacket",118.0
+482,Jacket,Puffer,M,indigo,49,"A indigo coloured, M sized, Puffer Jacket",118.0
+483,Jacket,Puffer,L,indigo,61,"A indigo coloured, L sized, Puffer Jacket",118.0
+484,Jacket,Puffer,XL,indigo,60,"A indigo coloured, XL sized, Puffer Jacket",118.0
+485,Jacket,Puffer,XS,violet,74,"A violet coloured, XS sized, Puffer Jacket",118.0
+486,Jacket,Puffer,S,violet,46,"A violet coloured, S sized, Puffer Jacket",118.0
+487,Jacket,Puffer,M,violet,43,"A violet coloured, M sized, Puffer Jacket",118.0
+488,Jacket,Puffer,L,violet,49,"A violet coloured, L sized, Puffer Jacket",118.0
+489,Jacket,Puffer,XL,violet,40,"A violet coloured, XL sized, Puffer Jacket",118.0
+490,Jacket,Windbreaker,XS,red,79,"A red coloured, XS sized, Windbreaker Jacket",102.0
+491,Jacket,Windbreaker,S,red,54,"A red coloured, S sized, Windbreaker Jacket",102.0
+492,Jacket,Windbreaker,M,red,47,"A red coloured, M sized, Windbreaker Jacket",102.0
+493,Jacket,Windbreaker,L,red,40,"A red coloured, L sized, Windbreaker Jacket",102.0
+494,Jacket,Windbreaker,XL,red,48,"A red coloured, XL sized, Windbreaker Jacket",102.0
+495,Jacket,Windbreaker,XS,orange,70,"A orange coloured, XS sized, Windbreaker Jacket",102.0
+496,Jacket,Windbreaker,S,orange,55,"A orange coloured, S sized, Windbreaker Jacket",102.0
+497,Jacket,Windbreaker,M,orange,45,"A orange coloured, M sized, Windbreaker Jacket",102.0
+498,Jacket,Windbreaker,L,orange,68,"A orange coloured, L sized, Windbreaker Jacket",102.0
+499,Jacket,Windbreaker,XL,orange,67,"A orange coloured, XL sized, Windbreaker Jacket",102.0
+500,Jacket,Windbreaker,XS,yellow,50,"A yellow coloured, XS sized, Windbreaker Jacket",102.0
+501,Jacket,Windbreaker,S,yellow,66,"A yellow coloured, S sized, Windbreaker Jacket",102.0
+502,Jacket,Windbreaker,M,yellow,52,"A yellow coloured, M sized, Windbreaker Jacket",102.0
+503,Jacket,Windbreaker,L,yellow,70,"A yellow coloured, L sized, Windbreaker Jacket",102.0
+504,Jacket,Windbreaker,XL,yellow,58,"A yellow coloured, XL sized, Windbreaker Jacket",102.0
+505,Jacket,Windbreaker,XS,green,57,"A green coloured, XS sized, Windbreaker Jacket",102.0
+506,Jacket,Windbreaker,S,green,65,"A green coloured, S sized, Windbreaker Jacket",102.0
+507,Jacket,Windbreaker,M,green,63,"A green coloured, M sized, Windbreaker Jacket",102.0
+508,Jacket,Windbreaker,L,green,62,"A green coloured, L sized, Windbreaker Jacket",102.0
+509,Jacket,Windbreaker,XL,green,71,"A green coloured, XL sized, Windbreaker Jacket",102.0
+510,Jacket,Windbreaker,XS,blue,59,"A blue coloured, XS sized, Windbreaker Jacket",102.0
+511,Jacket,Windbreaker,S,blue,41,"A blue coloured, S sized, Windbreaker Jacket",102.0
+512,Jacket,Windbreaker,M,blue,70,"A blue coloured, M sized, Windbreaker Jacket",102.0
+513,Jacket,Windbreaker,L,blue,41,"A blue coloured, L sized, Windbreaker Jacket",102.0
+514,Jacket,Windbreaker,XL,blue,59,"A blue coloured, XL sized, Windbreaker Jacket",102.0
+515,Jacket,Windbreaker,XS,indigo,79,"A indigo coloured, XS sized, Windbreaker Jacket",102.0
+516,Jacket,Windbreaker,S,indigo,62,"A indigo coloured, S sized, Windbreaker Jacket",102.0
+517,Jacket,Windbreaker,M,indigo,56,"A indigo coloured, M sized, Windbreaker Jacket",102.0
+518,Jacket,Windbreaker,L,indigo,67,"A indigo coloured, L sized, Windbreaker Jacket",102.0
+519,Jacket,Windbreaker,XL,indigo,60,"A indigo coloured, XL sized, Windbreaker Jacket",102.0
+520,Jacket,Windbreaker,XS,violet,68,"A violet coloured, XS sized, Windbreaker Jacket",102.0
+521,Jacket,Windbreaker,S,violet,46,"A violet coloured, S sized, Windbreaker Jacket",102.0
+522,Jacket,Windbreaker,M,violet,64,"A violet coloured, M sized, Windbreaker Jacket",102.0
+523,Jacket,Windbreaker,L,violet,72,"A violet coloured, L sized, Windbreaker Jacket",102.0
+524,Jacket,Windbreaker,XL,violet,54,"A violet coloured, XL sized, Windbreaker Jacket",102.0
+525,Jacket,Leather,XS,red,67,"A red coloured, XS sized, Leather Jacket",98.0
+526,Jacket,Leather,S,red,80,"A red coloured, S sized, Leather Jacket",98.0
+527,Jacket,Leather,M,red,54,"A red coloured, M sized, Leather Jacket",98.0
+528,Jacket,Leather,L,red,76,"A red coloured, L sized, Leather Jacket",98.0
+529,Jacket,Leather,XL,red,52,"A red coloured, XL sized, Leather Jacket",98.0
+530,Jacket,Leather,XS,orange,63,"A orange coloured, XS sized, Leather Jacket",98.0
+532,Jacket,Leather,M,orange,80,"A orange coloured, M sized, Leather Jacket",98.0
+533,Jacket,Leather,L,orange,78,"A orange coloured, L sized, Leather Jacket",98.0
+534,Jacket,Leather,XL,orange,64,"A orange coloured, XL sized, Leather Jacket",98.0
+535,Jacket,Leather,XS,yellow,73,"A yellow coloured, XS sized, Leather Jacket",98.0
+536,Jacket,Leather,S,yellow,41,"A yellow coloured, S sized, Leather Jacket",98.0
+537,Jacket,Leather,M,yellow,77,"A yellow coloured, M sized, Leather Jacket",98.0
+538,Jacket,Leather,L,yellow,45,"A yellow coloured, L sized, Leather Jacket",98.0
+539,Jacket,Leather,XL,yellow,67,"A yellow coloured, XL sized, Leather Jacket",98.0
+540,Jacket,Leather,XS,green,57,"A green coloured, XS sized, Leather Jacket",98.0
+541,Jacket,Leather,S,green,77,"A green coloured, S sized, Leather Jacket",98.0
+542,Jacket,Leather,M,green,45,"A green coloured, M sized, Leather Jacket",98.0
+543,Jacket,Leather,L,green,71,"A green coloured, L sized, Leather Jacket",98.0
+544,Jacket,Leather,XL,green,58,"A green coloured, XL sized, Leather Jacket",98.0
+545,Jacket,Leather,XS,blue,77,"A blue coloured, XS sized, Leather Jacket",98.0
+546,Jacket,Leather,S,blue,75,"A blue coloured, S sized, Leather Jacket",98.0
+547,Jacket,Leather,M,blue,60,"A blue coloured, M sized, Leather Jacket",98.0
+548,Jacket,Leather,L,blue,62,"A blue coloured, L sized, Leather Jacket",98.0
+549,Jacket,Leather,XL,blue,67,"A blue coloured, XL sized, Leather Jacket",98.0
+550,Jacket,Leather,XS,indigo,78,"A indigo coloured, XS sized, Leather Jacket",98.0
+551,Jacket,Leather,S,indigo,40,"A indigo coloured, S sized, Leather Jacket",98.0
+552,Jacket,Leather,M,indigo,71,"A indigo coloured, M sized, Leather Jacket",98.0
+553,Jacket,Leather,L,indigo,79,"A indigo coloured, L sized, Leather Jacket",98.0
+554,Jacket,Leather,XL,indigo,52,"A indigo coloured, XL sized, Leather Jacket",98.0
+555,Jacket,Leather,XS,violet,70,"A violet coloured, XS sized, Leather Jacket",98.0
+556,Jacket,Leather,S,violet,65,"A violet coloured, S sized, Leather Jacket",98.0
+557,Jacket,Leather,M,violet,40,"A violet coloured, M sized, Leather Jacket",98.0
+558,Jacket,Leather,L,violet,78,"A violet coloured, L sized, Leather Jacket",98.0
+559,Jacket,Leather,XL,violet,58,"A violet coloured, XL sized, Leather Jacket",98.0
+560,Jacket,Bomber,XS,red,76,"A red coloured, XS sized, Bomber Jacket",100.0
+561,Jacket,Bomber,S,red,74,"A red coloured, S sized, Bomber Jacket",100.0
+562,Jacket,Bomber,M,red,79,"A red coloured, M sized, Bomber Jacket",100.0
+563,Jacket,Bomber,L,red,50,"A red coloured, L sized, Bomber Jacket",100.0
+564,Jacket,Bomber,XL,red,62,"A red coloured, XL sized, Bomber Jacket",100.0
+565,Jacket,Bomber,XS,orange,80,"A orange coloured, XS sized, Bomber Jacket",100.0
+566,Jacket,Bomber,S,orange,49,"A orange coloured, S sized, Bomber Jacket",100.0
+567,Jacket,Bomber,M,orange,69,"A orange coloured, M sized, Bomber Jacket",100.0
+568,Jacket,Bomber,L,orange,71,"A orange coloured, L sized, Bomber Jacket",100.0
+569,Jacket,Bomber,XL,orange,69,"A orange coloured, XL sized, Bomber Jacket",100.0
+570,Jacket,Bomber,XS,yellow,57,"A yellow coloured, XS sized, Bomber Jacket",100.0
+571,Jacket,Bomber,S,yellow,64,"A yellow coloured, S sized, Bomber Jacket",100.0
+572,Jacket,Bomber,M,yellow,71,"A yellow coloured, M sized, Bomber Jacket",100.0
+573,Jacket,Bomber,L,yellow,54,"A yellow coloured, L sized, Bomber Jacket",100.0
+574,Jacket,Bomber,XL,yellow,50,"A yellow coloured, XL sized, Bomber Jacket",100.0
+575,Jacket,Bomber,XS,green,48,"A green coloured, XS sized, Bomber Jacket",100.0
+576,Jacket,Bomber,S,green,54,"A green coloured, S sized, Bomber Jacket",100.0
+577,Jacket,Bomber,M,green,61,"A green coloured, M sized, Bomber Jacket",100.0
+578,Jacket,Bomber,L,green,78,"A green coloured, L sized, Bomber Jacket",100.0
+579,Jacket,Bomber,XL,green,79,"A green coloured, XL sized, Bomber Jacket",100.0
+580,Jacket,Bomber,XS,blue,44,"A blue coloured, XS sized, Bomber Jacket",100.0
+581,Jacket,Bomber,S,blue,50,"A blue coloured, S sized, Bomber Jacket",100.0
+582,Jacket,Bomber,M,blue,44,"A blue coloured, M sized, Bomber Jacket",100.0
+583,Jacket,Bomber,L,blue,64,"A blue coloured, L sized, Bomber Jacket",100.0
+584,Jacket,Bomber,XL,blue,47,"A blue coloured, XL sized, Bomber Jacket",100.0
+585,Jacket,Bomber,XS,indigo,59,"A indigo coloured, XS sized, Bomber Jacket",100.0
+586,Jacket,Bomber,S,indigo,41,"A indigo coloured, S sized, Bomber Jacket",100.0
+587,Jacket,Bomber,M,indigo,52,"A indigo coloured, M sized, Bomber Jacket",100.0
+588,Jacket,Bomber,L,indigo,51,"A indigo coloured, L sized, Bomber Jacket",100.0
+589,Jacket,Bomber,XL,indigo,50,"A indigo coloured, XL sized, Bomber Jacket",100.0
+590,Jacket,Bomber,XS,violet,75,"A violet coloured, XS sized, Bomber Jacket",100.0
+591,Jacket,Bomber,S,violet,45,"A violet coloured, S sized, Bomber Jacket",100.0
+592,Jacket,Bomber,M,violet,45,"A violet coloured, M sized, Bomber Jacket",100.0
+593,Jacket,Bomber,L,violet,68,"A violet coloured, L sized, Bomber Jacket",100.0
+594,Jacket,Bomber,XL,violet,53,"A violet coloured, XL sized, Bomber Jacket",100.0
+595,Jacket,Cardigan,XS,red,51,"A red coloured, XS sized, Cardigan Jacket",112.0
+596,Jacket,Cardigan,S,red,47,"A red coloured, S sized, Cardigan Jacket",112.0
+597,Jacket,Cardigan,M,red,70,"A red coloured, M sized, Cardigan Jacket",112.0
+598,Jacket,Cardigan,L,red,41,"A red coloured, L sized, Cardigan Jacket",112.0
+599,Jacket,Cardigan,XL,red,54,"A red coloured, XL sized, Cardigan Jacket",112.0
+600,Jacket,Cardigan,XS,orange,46,"A orange coloured, XS sized, Cardigan Jacket",112.0
+602,Jacket,Cardigan,M,orange,54,"A orange coloured, M sized, Cardigan Jacket",112.0
+603,Jacket,Cardigan,L,orange,79,"A orange coloured, L sized, Cardigan Jacket",112.0
+604,Jacket,Cardigan,XL,orange,75,"A orange coloured, XL sized, Cardigan Jacket",112.0
+605,Jacket,Cardigan,XS,yellow,46,"A yellow coloured, XS sized, Cardigan Jacket",112.0
+606,Jacket,Cardigan,S,yellow,79,"A yellow coloured, S sized, Cardigan Jacket",112.0
+607,Jacket,Cardigan,M,yellow,64,"A yellow coloured, M sized, Cardigan Jacket",112.0
+608,Jacket,Cardigan,L,yellow,50,"A yellow coloured, L sized, Cardigan Jacket",112.0
+609,Jacket,Cardigan,XL,yellow,42,"A yellow coloured, XL sized, Cardigan Jacket",112.0
+610,Jacket,Cardigan,XS,green,40,"A green coloured, XS sized, Cardigan Jacket",112.0
+611,Jacket,Cardigan,S,green,62,"A green coloured, S sized, Cardigan Jacket",112.0
+612,Jacket,Cardigan,M,green,46,"A green coloured, M sized, Cardigan Jacket",112.0
+613,Jacket,Cardigan,L,green,63,"A green coloured, L sized, Cardigan Jacket",112.0
+614,Jacket,Cardigan,XL,green,64,"A green coloured, XL sized, Cardigan Jacket",112.0
+615,Jacket,Cardigan,XS,blue,54,"A blue coloured, XS sized, Cardigan Jacket",112.0
+616,Jacket,Cardigan,S,blue,53,"A blue coloured, S sized, Cardigan Jacket",112.0
+617,Jacket,Cardigan,M,blue,57,"A blue coloured, M sized, Cardigan Jacket",112.0
+618,Jacket,Cardigan,L,blue,68,"A blue coloured, L sized, Cardigan Jacket",112.0
+619,Jacket,Cardigan,XL,blue,57,"A blue coloured, XL sized, Cardigan Jacket",112.0
+620,Jacket,Cardigan,XS,indigo,70,"A indigo coloured, XS sized, Cardigan Jacket",112.0
+621,Jacket,Cardigan,S,indigo,61,"A indigo coloured, S sized, Cardigan Jacket",112.0
+622,Jacket,Cardigan,M,indigo,58,"A indigo coloured, M sized, Cardigan Jacket",112.0
+623,Jacket,Cardigan,L,indigo,40,"A indigo coloured, L sized, Cardigan Jacket",112.0
+624,Jacket,Cardigan,XL,indigo,78,"A indigo coloured, XL sized, Cardigan Jacket",112.0
+625,Jacket,Cardigan,XS,violet,40,"A violet coloured, XS sized, Cardigan Jacket",112.0
+626,Jacket,Cardigan,S,violet,49,"A violet coloured, S sized, Cardigan Jacket",112.0
+627,Jacket,Cardigan,M,violet,75,"A violet coloured, M sized, Cardigan Jacket",112.0
+628,Jacket,Cardigan,L,violet,66,"A violet coloured, L sized, Cardigan Jacket",112.0
+629,Jacket,Cardigan,XL,violet,64,"A violet coloured, XL sized, Cardigan Jacket",112.0
+630,Jacket,Coach,XS,red,71,"A red coloured, XS sized, Coach Jacket",93.0
+631,Jacket,Coach,S,red,76,"A red coloured, S sized, Coach Jacket",93.0
+632,Jacket,Coach,M,red,76,"A red coloured, M sized, Coach Jacket",93.0
+633,Jacket,Coach,L,red,80,"A red coloured, L sized, Coach Jacket",93.0
+634,Jacket,Coach,XL,red,46,"A red coloured, XL sized, Coach Jacket",93.0
+635,Jacket,Coach,XS,orange,42,"A orange coloured, XS sized, Coach Jacket",93.0
+636,Jacket,Coach,S,orange,55,"A orange coloured, S sized, Coach Jacket",93.0
+637,Jacket,Coach,M,orange,72,"A orange coloured, M sized, Coach Jacket",93.0
+639,Jacket,Coach,XL,orange,46,"A orange coloured, XL sized, Coach Jacket",93.0
+640,Jacket,Coach,XS,yellow,52,"A yellow coloured, XS sized, Coach Jacket",93.0
+641,Jacket,Coach,S,yellow,67,"A yellow coloured, S sized, Coach Jacket",93.0
+642,Jacket,Coach,M,yellow,48,"A yellow coloured, M sized, Coach Jacket",93.0
+643,Jacket,Coach,L,yellow,53,"A yellow coloured, L sized, Coach Jacket",93.0
+644,Jacket,Coach,XL,yellow,68,"A yellow coloured, XL sized, Coach Jacket",93.0
+645,Jacket,Coach,XS,green,78,"A green coloured, XS sized, Coach Jacket",93.0
+646,Jacket,Coach,S,green,60,"A green coloured, S sized, Coach Jacket",93.0
+647,Jacket,Coach,M,green,63,"A green coloured, M sized, Coach Jacket",93.0
+649,Jacket,Coach,XL,green,48,"A green coloured, XL sized, Coach Jacket",93.0
+650,Jacket,Coach,XS,blue,51,"A blue coloured, XS sized, Coach Jacket",93.0
+651,Jacket,Coach,S,blue,47,"A blue coloured, S sized, Coach Jacket",93.0
+652,Jacket,Coach,M,blue,54,"A blue coloured, M sized, Coach Jacket",93.0
+653,Jacket,Coach,L,blue,80,"A blue coloured, L sized, Coach Jacket",93.0
+654,Jacket,Coach,XL,blue,46,"A blue coloured, XL sized, Coach Jacket",93.0
+655,Jacket,Coach,XS,indigo,42,"A indigo coloured, XS sized, Coach Jacket",93.0
+656,Jacket,Coach,S,indigo,78,"A indigo coloured, S sized, Coach Jacket",93.0
+657,Jacket,Coach,M,indigo,64,"A indigo coloured, M sized, Coach Jacket",93.0
+658,Jacket,Coach,L,indigo,74,"A indigo coloured, L sized, Coach Jacket",93.0
+659,Jacket,Coach,XL,indigo,67,"A indigo coloured, XL sized, Coach Jacket",93.0
+660,Jacket,Coach,XS,violet,58,"A violet coloured, XS sized, Coach Jacket",93.0
+661,Jacket,Coach,S,violet,74,"A violet coloured, S sized, Coach Jacket",93.0
+662,Jacket,Coach,M,violet,74,"A violet coloured, M sized, Coach Jacket",93.0
+663,Jacket,Coach,L,violet,80,"A violet coloured, L sized, Coach Jacket",93.0
+664,Jacket,Coach,XL,violet,60,"A violet coloured, XL sized, Coach Jacket",93.0
+665,Jacket,Parka,XS,red,65,"A red coloured, XS sized, Parka Jacket",113.0
+666,Jacket,Parka,S,red,66,"A red coloured, S sized, Parka Jacket",113.0
+667,Jacket,Parka,M,red,56,"A red coloured, M sized, Parka Jacket",113.0
+668,Jacket,Parka,L,red,73,"A red coloured, L sized, Parka Jacket",113.0
+669,Jacket,Parka,XL,red,64,"A red coloured, XL sized, Parka Jacket",113.0
+670,Jacket,Parka,XS,orange,53,"A orange coloured, XS sized, Parka Jacket",113.0
+671,Jacket,Parka,S,orange,72,"A orange coloured, S sized, Parka Jacket",113.0
+672,Jacket,Parka,M,orange,51,"A orange coloured, M sized, Parka Jacket",113.0
+673,Jacket,Parka,L,orange,77,"A orange coloured, L sized, Parka Jacket",113.0
+674,Jacket,Parka,XL,orange,68,"A orange coloured, XL sized, Parka Jacket",113.0
+675,Jacket,Parka,XS,yellow,63,"A yellow coloured, XS sized, Parka Jacket",113.0
+676,Jacket,Parka,S,yellow,80,"A yellow coloured, S sized, Parka Jacket",113.0
+677,Jacket,Parka,M,yellow,46,"A yellow coloured, M sized, Parka Jacket",113.0
+678,Jacket,Parka,L,yellow,72,"A yellow coloured, L sized, Parka Jacket",113.0
+679,Jacket,Parka,XL,yellow,44,"A yellow coloured, XL sized, Parka Jacket",113.0
+680,Jacket,Parka,XS,green,75,"A green coloured, XS sized, Parka Jacket",113.0
+681,Jacket,Parka,S,green,62,"A green coloured, S sized, Parka Jacket",113.0
+682,Jacket,Parka,M,green,71,"A green coloured, M sized, Parka Jacket",113.0
+683,Jacket,Parka,L,green,55,"A green coloured, L sized, Parka Jacket",113.0
+684,Jacket,Parka,XL,green,55,"A green coloured, XL sized, Parka Jacket",113.0
+685,Jacket,Parka,XS,blue,67,"A blue coloured, XS sized, Parka Jacket",113.0
+686,Jacket,Parka,S,blue,72,"A blue coloured, S sized, Parka Jacket",113.0
+687,Jacket,Parka,M,blue,54,"A blue coloured, M sized, Parka Jacket",113.0
+688,Jacket,Parka,L,blue,61,"A blue coloured, L sized, Parka Jacket",113.0
+689,Jacket,Parka,XL,blue,47,"A blue coloured, XL sized, Parka Jacket",113.0
+690,Jacket,Parka,XS,indigo,57,"A indigo coloured, XS sized, Parka Jacket",113.0
+691,Jacket,Parka,S,indigo,53,"A indigo coloured, S sized, Parka Jacket",113.0
+692,Jacket,Parka,M,indigo,66,"A indigo coloured, M sized, Parka Jacket",113.0
+693,Jacket,Parka,L,indigo,44,"A indigo coloured, L sized, Parka Jacket",113.0
+694,Jacket,Parka,XL,indigo,78,"A indigo coloured, XL sized, Parka Jacket",113.0
+695,Jacket,Parka,XS,violet,59,"A violet coloured, XS sized, Parka Jacket",113.0
+696,Jacket,Parka,S,violet,67,"A violet coloured, S sized, Parka Jacket",113.0
+697,Jacket,Parka,M,violet,75,"A violet coloured, M sized, Parka Jacket",113.0
+698,Jacket,Parka,L,violet,53,"A violet coloured, L sized, Parka Jacket",113.0
+699,Jacket,Parka,XL,violet,80,"A violet coloured, XL sized, Parka Jacket",113.0
+700,Jacket,Trench Coat,XS,red,78,"A red coloured, XS sized, Trench Coat Jacket",119.0
+701,Jacket,Trench Coat,S,red,54,"A red coloured, S sized, Trench Coat Jacket",119.0
+702,Jacket,Trench Coat,M,red,57,"A red coloured, M sized, Trench Coat Jacket",119.0
+703,Jacket,Trench Coat,L,red,70,"A red coloured, L sized, Trench Coat Jacket",119.0
+704,Jacket,Trench Coat,XL,red,40,"A red coloured, XL sized, Trench Coat Jacket",119.0
+705,Jacket,Trench Coat,XS,orange,69,"A orange coloured, XS sized, Trench Coat Jacket",119.0
+706,Jacket,Trench Coat,S,orange,41,"A orange coloured, S sized, Trench Coat Jacket",119.0
+707,Jacket,Trench Coat,M,orange,43,"A orange coloured, M sized, Trench Coat Jacket",119.0
+708,Jacket,Trench Coat,L,orange,70,"A orange coloured, L sized, Trench Coat Jacket",119.0
+709,Jacket,Trench Coat,XL,orange,71,"A orange coloured, XL sized, Trench Coat Jacket",119.0
+710,Jacket,Trench Coat,XS,yellow,78,"A yellow coloured, XS sized, Trench Coat Jacket",119.0
+711,Jacket,Trench Coat,S,yellow,59,"A yellow coloured, S sized, Trench Coat Jacket",119.0
+712,Jacket,Trench Coat,M,yellow,54,"A yellow coloured, M sized, Trench Coat Jacket",119.0
+713,Jacket,Trench Coat,L,yellow,77,"A yellow coloured, L sized, Trench Coat Jacket",119.0
+715,Jacket,Trench Coat,XS,green,62,"A green coloured, XS sized, Trench Coat Jacket",119.0
+716,Jacket,Trench Coat,S,green,53,"A green coloured, S sized, Trench Coat Jacket",119.0
+717,Jacket,Trench Coat,M,green,67,"A green coloured, M sized, Trench Coat Jacket",119.0
+718,Jacket,Trench Coat,L,green,73,"A green coloured, L sized, Trench Coat Jacket",119.0
+719,Jacket,Trench Coat,XL,green,53,"A green coloured, XL sized, Trench Coat Jacket",119.0
+720,Jacket,Trench Coat,XS,blue,59,"A blue coloured, XS sized, Trench Coat Jacket",119.0
+721,Jacket,Trench Coat,S,blue,64,"A blue coloured, S sized, Trench Coat Jacket",119.0
+722,Jacket,Trench Coat,M,blue,46,"A blue coloured, M sized, Trench Coat Jacket",119.0
+723,Jacket,Trench Coat,L,blue,50,"A blue coloured, L sized, Trench Coat Jacket",119.0
+724,Jacket,Trench Coat,XL,blue,69,"A blue coloured, XL sized, Trench Coat Jacket",119.0
+725,Jacket,Trench Coat,XS,indigo,56,"A indigo coloured, XS sized, Trench Coat Jacket",119.0
+727,Jacket,Trench Coat,M,indigo,42,"A indigo coloured, M sized, Trench Coat Jacket",119.0
+728,Jacket,Trench Coat,L,indigo,71,"A indigo coloured, L sized, Trench Coat Jacket",119.0
+729,Jacket,Trench Coat,XL,indigo,64,"A indigo coloured, XL sized, Trench Coat Jacket",119.0
+730,Jacket,Trench Coat,XS,violet,64,"A violet coloured, XS sized, Trench Coat Jacket",119.0
+731,Jacket,Trench Coat,S,violet,69,"A violet coloured, S sized, Trench Coat Jacket",119.0
+732,Jacket,Trench Coat,M,violet,61,"A violet coloured, M sized, Trench Coat Jacket",119.0
+733,Jacket,Trench Coat,L,violet,76,"A violet coloured, L sized, Trench Coat Jacket",119.0
+734,Jacket,Trench Coat,XL,violet,52,"A violet coloured, XL sized, Trench Coat Jacket",119.0
+735,Jacket,Peacoat,XS,red,66,"A red coloured, XS sized, Peacoat Jacket",109.0
+736,Jacket,Peacoat,S,red,67,"A red coloured, S sized, Peacoat Jacket",109.0
+737,Jacket,Peacoat,M,red,59,"A red coloured, M sized, Peacoat Jacket",109.0
+739,Jacket,Peacoat,XL,red,58,"A red coloured, XL sized, Peacoat Jacket",109.0
+740,Jacket,Peacoat,XS,orange,78,"A orange coloured, XS sized, Peacoat Jacket",109.0
+741,Jacket,Peacoat,S,orange,73,"A orange coloured, S sized, Peacoat Jacket",109.0
+742,Jacket,Peacoat,M,orange,47,"A orange coloured, M sized, Peacoat Jacket",109.0
+743,Jacket,Peacoat,L,orange,45,"A orange coloured, L sized, Peacoat Jacket",109.0
+744,Jacket,Peacoat,XL,orange,69,"A orange coloured, XL sized, Peacoat Jacket",109.0
+746,Jacket,Peacoat,S,yellow,49,"A yellow coloured, S sized, Peacoat Jacket",109.0
+748,Jacket,Peacoat,L,yellow,63,"A yellow coloured, L sized, Peacoat Jacket",109.0
+749,Jacket,Peacoat,XL,yellow,53,"A yellow coloured, XL sized, Peacoat Jacket",109.0
+750,Jacket,Peacoat,XS,green,61,"A green coloured, XS sized, Peacoat Jacket",109.0
+751,Jacket,Peacoat,S,green,41,"A green coloured, S sized, Peacoat Jacket",109.0
+752,Jacket,Peacoat,M,green,49,"A green coloured, M sized, Peacoat Jacket",109.0
+753,Jacket,Peacoat,L,green,73,"A green coloured, L sized, Peacoat Jacket",109.0
+754,Jacket,Peacoat,XL,green,68,"A green coloured, XL sized, Peacoat Jacket",109.0
+755,Jacket,Peacoat,XS,blue,48,"A blue coloured, XS sized, Peacoat Jacket",109.0
+756,Jacket,Peacoat,S,blue,50,"A blue coloured, S sized, Peacoat Jacket",109.0
+757,Jacket,Peacoat,M,blue,71,"A blue coloured, M sized, Peacoat Jacket",109.0
+758,Jacket,Peacoat,L,blue,64,"A blue coloured, L sized, Peacoat Jacket",109.0
+759,Jacket,Peacoat,XL,blue,77,"A blue coloured, XL sized, Peacoat Jacket",109.0
+760,Jacket,Peacoat,XS,indigo,45,"A indigo coloured, XS sized, Peacoat Jacket",109.0
+761,Jacket,Peacoat,S,indigo,49,"A indigo coloured, S sized, Peacoat Jacket",109.0
+762,Jacket,Peacoat,M,indigo,52,"A indigo coloured, M sized, Peacoat Jacket",109.0
+763,Jacket,Peacoat,L,indigo,45,"A indigo coloured, L sized, Peacoat Jacket",109.0
+765,Jacket,Peacoat,XS,violet,54,"A violet coloured, XS sized, Peacoat Jacket",109.0
+766,Jacket,Peacoat,S,violet,73,"A violet coloured, S sized, Peacoat Jacket",109.0
+767,Jacket,Peacoat,M,violet,77,"A violet coloured, M sized, Peacoat Jacket",109.0
+768,Jacket,Peacoat,L,violet,65,"A violet coloured, L sized, Peacoat Jacket",109.0
+769,Jacket,Peacoat,XL,violet,42,"A violet coloured, XL sized, Peacoat Jacket",109.0
+770,Jacket,Pullover,XS,red,54,"A red coloured, XS sized, Pullover Jacket",91.0
+771,Jacket,Pullover,S,red,46,"A red coloured, S sized, Pullover Jacket",91.0
+772,Jacket,Pullover,M,red,55,"A red coloured, M sized, Pullover Jacket",91.0
+773,Jacket,Pullover,L,red,69,"A red coloured, L sized, Pullover Jacket",91.0
+774,Jacket,Pullover,XL,red,65,"A red coloured, XL sized, Pullover Jacket",91.0
+775,Jacket,Pullover,XS,orange,79,"A orange coloured, XS sized, Pullover Jacket",91.0
+776,Jacket,Pullover,S,orange,77,"A orange coloured, S sized, Pullover Jacket",91.0
+777,Jacket,Pullover,M,orange,60,"A orange coloured, M sized, Pullover Jacket",91.0
+778,Jacket,Pullover,L,orange,56,"A orange coloured, L sized, Pullover Jacket",91.0
+779,Jacket,Pullover,XL,orange,69,"A orange coloured, XL sized, Pullover Jacket",91.0
+780,Jacket,Pullover,XS,yellow,65,"A yellow coloured, XS sized, Pullover Jacket",91.0
+781,Jacket,Pullover,S,yellow,42,"A yellow coloured, S sized, Pullover Jacket",91.0
+782,Jacket,Pullover,M,yellow,49,"A yellow coloured, M sized, Pullover Jacket",91.0
+783,Jacket,Pullover,L,yellow,43,"A yellow coloured, L sized, Pullover Jacket",91.0
+784,Jacket,Pullover,XL,yellow,67,"A yellow coloured, XL sized, Pullover Jacket",91.0
+785,Jacket,Pullover,XS,green,70,"A green coloured, XS sized, Pullover Jacket",91.0
+786,Jacket,Pullover,S,green,69,"A green coloured, S sized, Pullover Jacket",91.0
+787,Jacket,Pullover,M,green,47,"A green coloured, M sized, Pullover Jacket",91.0
+788,Jacket,Pullover,L,green,72,"A green coloured, L sized, Pullover Jacket",91.0
+789,Jacket,Pullover,XL,green,65,"A green coloured, XL sized, Pullover Jacket",91.0
+790,Jacket,Pullover,XS,blue,61,"A blue coloured, XS sized, Pullover Jacket",91.0
+791,Jacket,Pullover,S,blue,73,"A blue coloured, S sized, Pullover Jacket",91.0
+792,Jacket,Pullover,M,blue,44,"A blue coloured, M sized, Pullover Jacket",91.0
+793,Jacket,Pullover,L,blue,66,"A blue coloured, L sized, Pullover Jacket",91.0
+794,Jacket,Pullover,XL,blue,74,"A blue coloured, XL sized, Pullover Jacket",91.0
+795,Jacket,Pullover,XS,indigo,78,"A indigo coloured, XS sized, Pullover Jacket",91.0
+796,Jacket,Pullover,S,indigo,44,"A indigo coloured, S sized, Pullover Jacket",91.0
+797,Jacket,Pullover,M,indigo,72,"A indigo coloured, M sized, Pullover Jacket",91.0
+798,Jacket,Pullover,L,indigo,50,"A indigo coloured, L sized, Pullover Jacket",91.0
+799,Jacket,Pullover,XL,indigo,43,"A indigo coloured, XL sized, Pullover Jacket",91.0
+800,Jacket,Pullover,XS,violet,61,"A violet coloured, XS sized, Pullover Jacket",91.0
+801,Jacket,Pullover,S,violet,74,"A violet coloured, S sized, Pullover Jacket",91.0
+802,Jacket,Pullover,M,violet,78,"A violet coloured, M sized, Pullover Jacket",91.0
+803,Jacket,Pullover,L,violet,78,"A violet coloured, L sized, Pullover Jacket",91.0
+804,Jacket,Pullover,XL,violet,69,"A violet coloured, XL sized, Pullover Jacket",91.0
+805,Jacket,Shearling,XS,red,74,"A red coloured, XS sized, Shearling Jacket",117.0
+806,Jacket,Shearling,S,red,75,"A red coloured, S sized, Shearling Jacket",117.0
+807,Jacket,Shearling,M,red,49,"A red coloured, M sized, Shearling Jacket",117.0
+808,Jacket,Shearling,L,red,40,"A red coloured, L sized, Shearling Jacket",117.0
+809,Jacket,Shearling,XL,red,42,"A red coloured, XL sized, Shearling Jacket",117.0
+810,Jacket,Shearling,XS,orange,54,"A orange coloured, XS sized, Shearling Jacket",117.0
+811,Jacket,Shearling,S,orange,53,"A orange coloured, S sized, Shearling Jacket",117.0
+812,Jacket,Shearling,M,orange,45,"A orange coloured, M sized, Shearling Jacket",117.0
+813,Jacket,Shearling,L,orange,58,"A orange coloured, L sized, Shearling Jacket",117.0
+814,Jacket,Shearling,XL,orange,60,"A orange coloured, XL sized, Shearling Jacket",117.0
+815,Jacket,Shearling,XS,yellow,66,"A yellow coloured, XS sized, Shearling Jacket",117.0
+816,Jacket,Shearling,S,yellow,48,"A yellow coloured, S sized, Shearling Jacket",117.0
+817,Jacket,Shearling,M,yellow,60,"A yellow coloured, M sized, Shearling Jacket",117.0
+818,Jacket,Shearling,L,yellow,58,"A yellow coloured, L sized, Shearling Jacket",117.0
+819,Jacket,Shearling,XL,yellow,63,"A yellow coloured, XL sized, Shearling Jacket",117.0
+820,Jacket,Shearling,XS,green,74,"A green coloured, XS sized, Shearling Jacket",117.0
+821,Jacket,Shearling,S,green,66,"A green coloured, S sized, Shearling Jacket",117.0
+822,Jacket,Shearling,M,green,59,"A green coloured, M sized, Shearling Jacket",117.0
+823,Jacket,Shearling,L,green,66,"A green coloured, L sized, Shearling Jacket",117.0
+824,Jacket,Shearling,XL,green,51,"A green coloured, XL sized, Shearling Jacket",117.0
+825,Jacket,Shearling,XS,blue,62,"A blue coloured, XS sized, Shearling Jacket",117.0
+826,Jacket,Shearling,S,blue,72,"A blue coloured, S sized, Shearling Jacket",117.0
+827,Jacket,Shearling,M,blue,73,"A blue coloured, M sized, Shearling Jacket",117.0
+828,Jacket,Shearling,L,blue,64,"A blue coloured, L sized, Shearling Jacket",117.0
+829,Jacket,Shearling,XL,blue,79,"A blue coloured, XL sized, Shearling Jacket",117.0
+830,Jacket,Shearling,XS,indigo,68,"A indigo coloured, XS sized, Shearling Jacket",117.0
+831,Jacket,Shearling,S,indigo,45,"A indigo coloured, S sized, Shearling Jacket",117.0
+832,Jacket,Shearling,M,indigo,74,"A indigo coloured, M sized, Shearling Jacket",117.0
+833,Jacket,Shearling,L,indigo,66,"A indigo coloured, L sized, Shearling Jacket",117.0
+835,Jacket,Shearling,XS,violet,75,"A violet coloured, XS sized, Shearling Jacket",117.0
+836,Jacket,Shearling,S,violet,49,"A violet coloured, S sized, Shearling Jacket",117.0
+837,Jacket,Shearling,M,violet,74,"A violet coloured, M sized, Shearling Jacket",117.0
+838,Jacket,Shearling,L,violet,61,"A violet coloured, L sized, Shearling Jacket",117.0
+839,Jacket,Shearling,XL,violet,70,"A violet coloured, XL sized, Shearling Jacket",117.0
+840,Trousers,Chinos,XS,red,69,"A red coloured, XS sized, Chinos Trousers",113.0
+841,Trousers,Chinos,S,red,62,"A red coloured, S sized, Chinos Trousers",113.0
+842,Trousers,Chinos,M,red,54,"A red coloured, M sized, Chinos Trousers",113.0
+843,Trousers,Chinos,L,red,44,"A red coloured, L sized, Chinos Trousers",113.0
+844,Trousers,Chinos,XL,red,71,"A red coloured, XL sized, Chinos Trousers",113.0
+845,Trousers,Chinos,XS,orange,53,"A orange coloured, XS sized, Chinos Trousers",113.0
+846,Trousers,Chinos,S,orange,58,"A orange coloured, S sized, Chinos Trousers",113.0
+847,Trousers,Chinos,M,orange,73,"A orange coloured, M sized, Chinos Trousers",113.0
+848,Trousers,Chinos,L,orange,60,"A orange coloured, L sized, Chinos Trousers",113.0
+849,Trousers,Chinos,XL,orange,48,"A orange coloured, XL sized, Chinos Trousers",113.0
+850,Trousers,Chinos,XS,yellow,41,"A yellow coloured, XS sized, Chinos Trousers",113.0
+851,Trousers,Chinos,S,yellow,40,"A yellow coloured, S sized, Chinos Trousers",113.0
+852,Trousers,Chinos,M,yellow,58,"A yellow coloured, M sized, Chinos Trousers",113.0
+853,Trousers,Chinos,L,yellow,65,"A yellow coloured, L sized, Chinos Trousers",113.0
+854,Trousers,Chinos,XL,yellow,59,"A yellow coloured, XL sized, Chinos Trousers",113.0
+855,Trousers,Chinos,XS,green,75,"A green coloured, XS sized, Chinos Trousers",113.0
+856,Trousers,Chinos,S,green,61,"A green coloured, S sized, Chinos Trousers",113.0
+857,Trousers,Chinos,M,green,49,"A green coloured, M sized, Chinos Trousers",113.0
+858,Trousers,Chinos,L,green,77,"A green coloured, L sized, Chinos Trousers",113.0
+859,Trousers,Chinos,XL,green,50,"A green coloured, XL sized, Chinos Trousers",113.0
+860,Trousers,Chinos,XS,blue,69,"A blue coloured, XS sized, Chinos Trousers",113.0
+861,Trousers,Chinos,S,blue,51,"A blue coloured, S sized, Chinos Trousers",113.0
+862,Trousers,Chinos,M,blue,41,"A blue coloured, M sized, Chinos Trousers",113.0
+863,Trousers,Chinos,L,blue,46,"A blue coloured, L sized, Chinos Trousers",113.0
+864,Trousers,Chinos,XL,blue,48,"A blue coloured, XL sized, Chinos Trousers",113.0
+865,Trousers,Chinos,XS,indigo,61,"A indigo coloured, XS sized, Chinos Trousers",113.0
+866,Trousers,Chinos,S,indigo,67,"A indigo coloured, S sized, Chinos Trousers",113.0
+867,Trousers,Chinos,M,indigo,64,"A indigo coloured, M sized, Chinos Trousers",113.0
+869,Trousers,Chinos,XL,indigo,78,"A indigo coloured, XL sized, Chinos Trousers",113.0
+870,Trousers,Chinos,XS,violet,72,"A violet coloured, XS sized, Chinos Trousers",113.0
+871,Trousers,Chinos,S,violet,64,"A violet coloured, S sized, Chinos Trousers",113.0
+872,Trousers,Chinos,M,violet,54,"A violet coloured, M sized, Chinos Trousers",113.0
+873,Trousers,Chinos,L,violet,62,"A violet coloured, L sized, Chinos Trousers",113.0
+874,Trousers,Chinos,XL,violet,77,"A violet coloured, XL sized, Chinos Trousers",113.0
+875,Trousers,Cords,XS,red,63,"A red coloured, XS sized, Cords Trousers",94.0
+876,Trousers,Cords,S,red,67,"A red coloured, S sized, Cords Trousers",94.0
+877,Trousers,Cords,M,red,68,"A red coloured, M sized, Cords Trousers",94.0
+878,Trousers,Cords,L,red,53,"A red coloured, L sized, Cords Trousers",94.0
+879,Trousers,Cords,XL,red,80,"A red coloured, XL sized, Cords Trousers",94.0
+880,Trousers,Cords,XS,orange,70,"A orange coloured, XS sized, Cords Trousers",94.0
+881,Trousers,Cords,S,orange,59,"A orange coloured, S sized, Cords Trousers",94.0
+882,Trousers,Cords,M,orange,53,"A orange coloured, M sized, Cords Trousers",94.0
+883,Trousers,Cords,L,orange,74,"A orange coloured, L sized, Cords Trousers",94.0
+884,Trousers,Cords,XL,orange,72,"A orange coloured, XL sized, Cords Trousers",94.0
+885,Trousers,Cords,XS,yellow,69,"A yellow coloured, XS sized, Cords Trousers",94.0
+886,Trousers,Cords,S,yellow,68,"A yellow coloured, S sized, Cords Trousers",94.0
+887,Trousers,Cords,M,yellow,58,"A yellow coloured, M sized, Cords Trousers",94.0
+888,Trousers,Cords,L,yellow,62,"A yellow coloured, L sized, Cords Trousers",94.0
+889,Trousers,Cords,XL,yellow,65,"A yellow coloured, XL sized, Cords Trousers",94.0
+890,Trousers,Cords,XS,green,50,"A green coloured, XS sized, Cords Trousers",94.0
+891,Trousers,Cords,S,green,78,"A green coloured, S sized, Cords Trousers",94.0
+892,Trousers,Cords,M,green,76,"A green coloured, M sized, Cords Trousers",94.0
+893,Trousers,Cords,L,green,62,"A green coloured, L sized, Cords Trousers",94.0
+894,Trousers,Cords,XL,green,49,"A green coloured, XL sized, Cords Trousers",94.0
+895,Trousers,Cords,XS,blue,60,"A blue coloured, XS sized, Cords Trousers",94.0
+896,Trousers,Cords,S,blue,59,"A blue coloured, S sized, Cords Trousers",94.0
+897,Trousers,Cords,M,blue,47,"A blue coloured, M sized, Cords Trousers",94.0
+898,Trousers,Cords,L,blue,77,"A blue coloured, L sized, Cords Trousers",94.0
+899,Trousers,Cords,XL,blue,65,"A blue coloured, XL sized, Cords Trousers",94.0
+900,Trousers,Cords,XS,indigo,47,"A indigo coloured, XS sized, Cords Trousers",94.0
+901,Trousers,Cords,S,indigo,60,"A indigo coloured, S sized, Cords Trousers",94.0
+902,Trousers,Cords,M,indigo,52,"A indigo coloured, M sized, Cords Trousers",94.0
+903,Trousers,Cords,L,indigo,62,"A indigo coloured, L sized, Cords Trousers",94.0
+904,Trousers,Cords,XL,indigo,70,"A indigo coloured, XL sized, Cords Trousers",94.0
+905,Trousers,Cords,XS,violet,76,"A violet coloured, XS sized, Cords Trousers",94.0
+906,Trousers,Cords,S,violet,65,"A violet coloured, S sized, Cords Trousers",94.0
+907,Trousers,Cords,M,violet,77,"A violet coloured, M sized, Cords Trousers",94.0
+908,Trousers,Cords,L,violet,74,"A violet coloured, L sized, Cords Trousers",94.0
+909,Trousers,Cords,XL,violet,73,"A violet coloured, XL sized, Cords Trousers",94.0
+910,Trousers,Drawstring,XS,red,57,"A red coloured, XS sized, Drawstring Trousers",96.0
+911,Trousers,Drawstring,S,red,64,"A red coloured, S sized, Drawstring Trousers",96.0
+912,Trousers,Drawstring,M,red,70,"A red coloured, M sized, Drawstring Trousers",96.0
+913,Trousers,Drawstring,L,red,73,"A red coloured, L sized, Drawstring Trousers",96.0
+914,Trousers,Drawstring,XL,red,77,"A red coloured, XL sized, Drawstring Trousers",96.0
+915,Trousers,Drawstring,XS,orange,41,"A orange coloured, XS sized, Drawstring Trousers",96.0
+916,Trousers,Drawstring,S,orange,58,"A orange coloured, S sized, Drawstring Trousers",96.0
+917,Trousers,Drawstring,M,orange,76,"A orange coloured, M sized, Drawstring Trousers",96.0
+918,Trousers,Drawstring,L,orange,54,"A orange coloured, L sized, Drawstring Trousers",96.0
+919,Trousers,Drawstring,XL,orange,68,"A orange coloured, XL sized, Drawstring Trousers",96.0
+920,Trousers,Drawstring,XS,yellow,41,"A yellow coloured, XS sized, Drawstring Trousers",96.0
+921,Trousers,Drawstring,S,yellow,74,"A yellow coloured, S sized, Drawstring Trousers",96.0
+922,Trousers,Drawstring,M,yellow,55,"A yellow coloured, M sized, Drawstring Trousers",96.0
+923,Trousers,Drawstring,L,yellow,68,"A yellow coloured, L sized, Drawstring Trousers",96.0
+924,Trousers,Drawstring,XL,yellow,48,"A yellow coloured, XL sized, Drawstring Trousers",96.0
+925,Trousers,Drawstring,XS,green,57,"A green coloured, XS sized, Drawstring Trousers",96.0
+926,Trousers,Drawstring,S,green,73,"A green coloured, S sized, Drawstring Trousers",96.0
+927,Trousers,Drawstring,M,green,52,"A green coloured, M sized, Drawstring Trousers",96.0
+928,Trousers,Drawstring,L,green,43,"A green coloured, L sized, Drawstring Trousers",96.0
+929,Trousers,Drawstring,XL,green,49,"A green coloured, XL sized, Drawstring Trousers",96.0
+930,Trousers,Drawstring,XS,blue,45,"A blue coloured, XS sized, Drawstring Trousers",96.0
+931,Trousers,Drawstring,S,blue,48,"A blue coloured, S sized, Drawstring Trousers",96.0
+932,Trousers,Drawstring,M,blue,41,"A blue coloured, M sized, Drawstring Trousers",96.0
+933,Trousers,Drawstring,L,blue,50,"A blue coloured, L sized, Drawstring Trousers",96.0
+934,Trousers,Drawstring,XL,blue,60,"A blue coloured, XL sized, Drawstring Trousers",96.0
+935,Trousers,Drawstring,XS,indigo,61,"A indigo coloured, XS sized, Drawstring Trousers",96.0
+936,Trousers,Drawstring,S,indigo,46,"A indigo coloured, S sized, Drawstring Trousers",96.0
+937,Trousers,Drawstring,M,indigo,58,"A indigo coloured, M sized, Drawstring Trousers",96.0
+938,Trousers,Drawstring,L,indigo,77,"A indigo coloured, L sized, Drawstring Trousers",96.0
+939,Trousers,Drawstring,XL,indigo,41,"A indigo coloured, XL sized, Drawstring Trousers",96.0
+940,Trousers,Drawstring,XS,violet,62,"A violet coloured, XS sized, Drawstring Trousers",96.0
+941,Trousers,Drawstring,S,violet,40,"A violet coloured, S sized, Drawstring Trousers",96.0
+942,Trousers,Drawstring,M,violet,73,"A violet coloured, M sized, Drawstring Trousers",96.0
+943,Trousers,Drawstring,L,violet,62,"A violet coloured, L sized, Drawstring Trousers",96.0
+944,Trousers,Drawstring,XL,violet,80,"A violet coloured, XL sized, Drawstring Trousers",96.0
+946,Trousers,Slim-Fit,S,red,71,"A red coloured, S sized, Slim-Fit Trousers",97.0
+947,Trousers,Slim-Fit,M,red,67,"A red coloured, M sized, Slim-Fit Trousers",97.0
+948,Trousers,Slim-Fit,L,red,80,"A red coloured, L sized, Slim-Fit Trousers",97.0
+949,Trousers,Slim-Fit,XL,red,67,"A red coloured, XL sized, Slim-Fit Trousers",97.0
+950,Trousers,Slim-Fit,XS,orange,69,"A orange coloured, XS sized, Slim-Fit Trousers",97.0
+951,Trousers,Slim-Fit,S,orange,55,"A orange coloured, S sized, Slim-Fit Trousers",97.0
+952,Trousers,Slim-Fit,M,orange,44,"A orange coloured, M sized, Slim-Fit Trousers",97.0
+953,Trousers,Slim-Fit,L,orange,66,"A orange coloured, L sized, Slim-Fit Trousers",97.0
+954,Trousers,Slim-Fit,XL,orange,78,"A orange coloured, XL sized, Slim-Fit Trousers",97.0
+955,Trousers,Slim-Fit,XS,yellow,59,"A yellow coloured, XS sized, Slim-Fit Trousers",97.0
+956,Trousers,Slim-Fit,S,yellow,54,"A yellow coloured, S sized, Slim-Fit Trousers",97.0
+957,Trousers,Slim-Fit,M,yellow,55,"A yellow coloured, M sized, Slim-Fit Trousers",97.0
+958,Trousers,Slim-Fit,L,yellow,64,"A yellow coloured, L sized, Slim-Fit Trousers",97.0
+960,Trousers,Slim-Fit,XS,green,74,"A green coloured, XS sized, Slim-Fit Trousers",97.0
+961,Trousers,Slim-Fit,S,green,70,"A green coloured, S sized, Slim-Fit Trousers",97.0
+962,Trousers,Slim-Fit,M,green,78,"A green coloured, M sized, Slim-Fit Trousers",97.0
+963,Trousers,Slim-Fit,L,green,43,"A green coloured, L sized, Slim-Fit Trousers",97.0
+964,Trousers,Slim-Fit,XL,green,67,"A green coloured, XL sized, Slim-Fit Trousers",97.0
+965,Trousers,Slim-Fit,XS,blue,55,"A blue coloured, XS sized, Slim-Fit Trousers",97.0
+966,Trousers,Slim-Fit,S,blue,49,"A blue coloured, S sized, Slim-Fit Trousers",97.0
+967,Trousers,Slim-Fit,M,blue,75,"A blue coloured, M sized, Slim-Fit Trousers",97.0
+968,Trousers,Slim-Fit,L,blue,49,"A blue coloured, L sized, Slim-Fit Trousers",97.0
+969,Trousers,Slim-Fit,XL,blue,47,"A blue coloured, XL sized, Slim-Fit Trousers",97.0
+970,Trousers,Slim-Fit,XS,indigo,74,"A indigo coloured, XS sized, Slim-Fit Trousers",97.0
+971,Trousers,Slim-Fit,S,indigo,41,"A indigo coloured, S sized, Slim-Fit Trousers",97.0
+972,Trousers,Slim-Fit,M,indigo,67,"A indigo coloured, M sized, Slim-Fit Trousers",97.0
+973,Trousers,Slim-Fit,L,indigo,48,"A indigo coloured, L sized, Slim-Fit Trousers",97.0
+974,Trousers,Slim-Fit,XL,indigo,66,"A indigo coloured, XL sized, Slim-Fit Trousers",97.0
+975,Trousers,Slim-Fit,XS,violet,70,"A violet coloured, XS sized, Slim-Fit Trousers",97.0
+976,Trousers,Slim-Fit,S,violet,46,"A violet coloured, S sized, Slim-Fit Trousers",97.0
+977,Trousers,Slim-Fit,M,violet,51,"A violet coloured, M sized, Slim-Fit Trousers",97.0
+978,Trousers,Slim-Fit,L,violet,58,"A violet coloured, L sized, Slim-Fit Trousers",97.0
+979,Trousers,Slim-Fit,XL,violet,48,"A violet coloured, XL sized, Slim-Fit Trousers",97.0
+980,Trousers,Wool,XS,red,44,"A red coloured, XS sized, Wool Trousers",106.0
+981,Trousers,Wool,S,red,65,"A red coloured, S sized, Wool Trousers",106.0
+982,Trousers,Wool,M,red,58,"A red coloured, M sized, Wool Trousers",106.0
+983,Trousers,Wool,L,red,74,"A red coloured, L sized, Wool Trousers",106.0
+984,Trousers,Wool,XL,red,58,"A red coloured, XL sized, Wool Trousers",106.0
+986,Trousers,Wool,S,orange,59,"A orange coloured, S sized, Wool Trousers",106.0
+987,Trousers,Wool,M,orange,75,"A orange coloured, M sized, Wool Trousers",106.0
+988,Trousers,Wool,L,orange,56,"A orange coloured, L sized, Wool Trousers",106.0
+989,Trousers,Wool,XL,orange,56,"A orange coloured, XL sized, Wool Trousers",106.0
+990,Trousers,Wool,XS,yellow,67,"A yellow coloured, XS sized, Wool Trousers",106.0
+991,Trousers,Wool,S,yellow,69,"A yellow coloured, S sized, Wool Trousers",106.0
+992,Trousers,Wool,M,yellow,43,"A yellow coloured, M sized, Wool Trousers",106.0
+993,Trousers,Wool,L,yellow,46,"A yellow coloured, L sized, Wool Trousers",106.0
+994,Trousers,Wool,XL,yellow,72,"A yellow coloured, XL sized, Wool Trousers",106.0
+995,Trousers,Wool,XS,green,73,"A green coloured, XS sized, Wool Trousers",106.0
+996,Trousers,Wool,S,green,43,"A green coloured, S sized, Wool Trousers",106.0
+997,Trousers,Wool,M,green,41,"A green coloured, M sized, Wool Trousers",106.0
+998,Trousers,Wool,L,green,42,"A green coloured, L sized, Wool Trousers",106.0
+999,Trousers,Wool,XL,green,48,"A green coloured, XL sized, Wool Trousers",106.0
+1000,Trousers,Wool,XS,blue,58,"A blue coloured, XS sized, Wool Trousers",106.0
+1001,Trousers,Wool,S,blue,55,"A blue coloured, S sized, Wool Trousers",106.0
+1002,Trousers,Wool,M,blue,52,"A blue coloured, M sized, Wool Trousers",106.0
+1003,Trousers,Wool,L,blue,79,"A blue coloured, L sized, Wool Trousers",106.0
+1004,Trousers,Wool,XL,blue,41,"A blue coloured, XL sized, Wool Trousers",106.0
+1005,Trousers,Wool,XS,indigo,43,"A indigo coloured, XS sized, Wool Trousers",106.0
+1006,Trousers,Wool,S,indigo,45,"A indigo coloured, S sized, Wool Trousers",106.0
+1007,Trousers,Wool,M,indigo,56,"A indigo coloured, M sized, Wool Trousers",106.0
+1008,Trousers,Wool,L,indigo,41,"A indigo coloured, L sized, Wool Trousers",106.0
+1009,Trousers,Wool,XL,indigo,51,"A indigo coloured, XL sized, Wool Trousers",106.0
+1010,Trousers,Wool,XS,violet,80,"A violet coloured, XS sized, Wool Trousers",106.0
+1011,Trousers,Wool,S,violet,59,"A violet coloured, S sized, Wool Trousers",106.0
+1012,Trousers,Wool,M,violet,51,"A violet coloured, M sized, Wool Trousers",106.0
+1013,Trousers,Wool,L,violet,61,"A violet coloured, L sized, Wool Trousers",106.0
+1014,Trousers,Wool,XL,violet,40,"A violet coloured, XL sized, Wool Trousers",106.0
+1015,Trousers,Relaxed Leg,XS,red,52,"A red coloured, XS sized, Relaxed Leg Trousers",90.0
+1016,Trousers,Relaxed Leg,S,red,70,"A red coloured, S sized, Relaxed Leg Trousers",90.0
+1017,Trousers,Relaxed Leg,M,red,56,"A red coloured, M sized, Relaxed Leg Trousers",90.0
+1018,Trousers,Relaxed Leg,L,red,63,"A red coloured, L sized, Relaxed Leg Trousers",90.0
+1019,Trousers,Relaxed Leg,XL,red,50,"A red coloured, XL sized, Relaxed Leg Trousers",90.0
+1020,Trousers,Relaxed Leg,XS,orange,64,"A orange coloured, XS sized, Relaxed Leg Trousers",90.0
+1021,Trousers,Relaxed Leg,S,orange,47,"A orange coloured, S sized, Relaxed Leg Trousers",90.0
+1022,Trousers,Relaxed Leg,M,orange,74,"A orange coloured, M sized, Relaxed Leg Trousers",90.0
+1023,Trousers,Relaxed Leg,L,orange,78,"A orange coloured, L sized, Relaxed Leg Trousers",90.0
+1024,Trousers,Relaxed Leg,XL,orange,80,"A orange coloured, XL sized, Relaxed Leg Trousers",90.0
+1025,Trousers,Relaxed Leg,XS,yellow,44,"A yellow coloured, XS sized, Relaxed Leg Trousers",90.0
+1026,Trousers,Relaxed Leg,S,yellow,43,"A yellow coloured, S sized, Relaxed Leg Trousers",90.0
+1027,Trousers,Relaxed Leg,M,yellow,68,"A yellow coloured, M sized, Relaxed Leg Trousers",90.0
+1028,Trousers,Relaxed Leg,L,yellow,65,"A yellow coloured, L sized, Relaxed Leg Trousers",90.0
+1029,Trousers,Relaxed Leg,XL,yellow,54,"A yellow coloured, XL sized, Relaxed Leg Trousers",90.0
+1030,Trousers,Relaxed Leg,XS,green,80,"A green coloured, XS sized, Relaxed Leg Trousers",90.0
+1031,Trousers,Relaxed Leg,S,green,51,"A green coloured, S sized, Relaxed Leg Trousers",90.0
+1033,Trousers,Relaxed Leg,L,green,62,"A green coloured, L sized, Relaxed Leg Trousers",90.0
+1034,Trousers,Relaxed Leg,XL,green,64,"A green coloured, XL sized, Relaxed Leg Trousers",90.0
+1035,Trousers,Relaxed Leg,XS,blue,54,"A blue coloured, XS sized, Relaxed Leg Trousers",90.0
+1036,Trousers,Relaxed Leg,S,blue,57,"A blue coloured, S sized, Relaxed Leg Trousers",90.0
+1037,Trousers,Relaxed Leg,M,blue,72,"A blue coloured, M sized, Relaxed Leg Trousers",90.0
+1038,Trousers,Relaxed Leg,L,blue,61,"A blue coloured, L sized, Relaxed Leg Trousers",90.0
+1039,Trousers,Relaxed Leg,XL,blue,40,"A blue coloured, XL sized, Relaxed Leg Trousers",90.0
+1040,Trousers,Relaxed Leg,XS,indigo,60,"A indigo coloured, XS sized, Relaxed Leg Trousers",90.0
+1041,Trousers,Relaxed Leg,S,indigo,40,"A indigo coloured, S sized, Relaxed Leg Trousers",90.0
+1042,Trousers,Relaxed Leg,M,indigo,45,"A indigo coloured, M sized, Relaxed Leg Trousers",90.0
+1043,Trousers,Relaxed Leg,L,indigo,48,"A indigo coloured, L sized, Relaxed Leg Trousers",90.0
+1044,Trousers,Relaxed Leg,XL,indigo,58,"A indigo coloured, XL sized, Relaxed Leg Trousers",90.0
+1045,Trousers,Relaxed Leg,XS,violet,49,"A violet coloured, XS sized, Relaxed Leg Trousers",90.0
+1046,Trousers,Relaxed Leg,S,violet,75,"A violet coloured, S sized, Relaxed Leg Trousers",90.0
+1047,Trousers,Relaxed Leg,M,violet,46,"A violet coloured, M sized, Relaxed Leg Trousers",90.0
+1048,Trousers,Relaxed Leg,L,violet,47,"A violet coloured, L sized, Relaxed Leg Trousers",90.0
+1049,Trousers,Relaxed Leg,XL,violet,42,"A violet coloured, XL sized, Relaxed Leg Trousers",90.0
+1050,Trousers,Joggers,XS,red,65,"A red coloured, XS sized, Joggers Trousers",93.0
+1051,Trousers,Joggers,S,red,71,"A red coloured, S sized, Joggers Trousers",93.0
+1052,Trousers,Joggers,M,red,43,"A red coloured, M sized, Joggers Trousers",93.0
+1053,Trousers,Joggers,L,red,63,"A red coloured, L sized, Joggers Trousers",93.0
+1054,Trousers,Joggers,XL,red,58,"A red coloured, XL sized, Joggers Trousers",93.0
+1055,Trousers,Joggers,XS,orange,65,"A orange coloured, XS sized, Joggers Trousers",93.0
+1056,Trousers,Joggers,S,orange,43,"A orange coloured, S sized, Joggers Trousers",93.0
+1057,Trousers,Joggers,M,orange,52,"A orange coloured, M sized, Joggers Trousers",93.0
+1058,Trousers,Joggers,L,orange,49,"A orange coloured, L sized, Joggers Trousers",93.0
+1059,Trousers,Joggers,XL,orange,44,"A orange coloured, XL sized, Joggers Trousers",93.0
+1060,Trousers,Joggers,XS,yellow,62,"A yellow coloured, XS sized, Joggers Trousers",93.0
+1061,Trousers,Joggers,S,yellow,76,"A yellow coloured, S sized, Joggers Trousers",93.0
+1062,Trousers,Joggers,M,yellow,72,"A yellow coloured, M sized, Joggers Trousers",93.0
+1063,Trousers,Joggers,L,yellow,58,"A yellow coloured, L sized, Joggers Trousers",93.0
+1064,Trousers,Joggers,XL,yellow,69,"A yellow coloured, XL sized, Joggers Trousers",93.0
+1065,Trousers,Joggers,XS,green,77,"A green coloured, XS sized, Joggers Trousers",93.0
+1066,Trousers,Joggers,S,green,76,"A green coloured, S sized, Joggers Trousers",93.0
+1067,Trousers,Joggers,M,green,54,"A green coloured, M sized, Joggers Trousers",93.0
+1068,Trousers,Joggers,L,green,43,"A green coloured, L sized, Joggers Trousers",93.0
+1069,Trousers,Joggers,XL,green,56,"A green coloured, XL sized, Joggers Trousers",93.0
+1070,Trousers,Joggers,XS,blue,67,"A blue coloured, XS sized, Joggers Trousers",93.0
+1071,Trousers,Joggers,S,blue,50,"A blue coloured, S sized, Joggers Trousers",93.0
+1072,Trousers,Joggers,M,blue,78,"A blue coloured, M sized, Joggers Trousers",93.0
+1073,Trousers,Joggers,L,blue,75,"A blue coloured, L sized, Joggers Trousers",93.0
+1074,Trousers,Joggers,XL,blue,52,"A blue coloured, XL sized, Joggers Trousers",93.0
+1076,Trousers,Joggers,S,indigo,56,"A indigo coloured, S sized, Joggers Trousers",93.0
+1077,Trousers,Joggers,M,indigo,66,"A indigo coloured, M sized, Joggers Trousers",93.0
+1078,Trousers,Joggers,L,indigo,42,"A indigo coloured, L sized, Joggers Trousers",93.0
+1079,Trousers,Joggers,XL,indigo,66,"A indigo coloured, XL sized, Joggers Trousers",93.0
+1080,Trousers,Joggers,XS,violet,50,"A violet coloured, XS sized, Joggers Trousers",93.0
+1081,Trousers,Joggers,S,violet,63,"A violet coloured, S sized, Joggers Trousers",93.0
+1082,Trousers,Joggers,M,violet,72,"A violet coloured, M sized, Joggers Trousers",93.0
+1083,Trousers,Joggers,L,violet,60,"A violet coloured, L sized, Joggers Trousers",93.0
+1084,Trousers,Joggers,XL,violet,40,"A violet coloured, XL sized, Joggers Trousers",93.0
+1085,Trousers,Cropped,XS,red,75,"A red coloured, XS sized, Cropped Trousers",115.0
+1086,Trousers,Cropped,S,red,47,"A red coloured, S sized, Cropped Trousers",115.0
+1087,Trousers,Cropped,M,red,50,"A red coloured, M sized, Cropped Trousers",115.0
+1088,Trousers,Cropped,L,red,63,"A red coloured, L sized, Cropped Trousers",115.0
+1089,Trousers,Cropped,XL,red,78,"A red coloured, XL sized, Cropped Trousers",115.0
+1090,Trousers,Cropped,XS,orange,78,"A orange coloured, XS sized, Cropped Trousers",115.0
+1091,Trousers,Cropped,S,orange,78,"A orange coloured, S sized, Cropped Trousers",115.0
+1092,Trousers,Cropped,M,orange,56,"A orange coloured, M sized, Cropped Trousers",115.0
+1093,Trousers,Cropped,L,orange,79,"A orange coloured, L sized, Cropped Trousers",115.0
+1094,Trousers,Cropped,XL,orange,61,"A orange coloured, XL sized, Cropped Trousers",115.0
+1095,Trousers,Cropped,XS,yellow,41,"A yellow coloured, XS sized, Cropped Trousers",115.0
+1096,Trousers,Cropped,S,yellow,65,"A yellow coloured, S sized, Cropped Trousers",115.0
+1097,Trousers,Cropped,M,yellow,41,"A yellow coloured, M sized, Cropped Trousers",115.0
+1098,Trousers,Cropped,L,yellow,60,"A yellow coloured, L sized, Cropped Trousers",115.0
+1099,Trousers,Cropped,XL,yellow,68,"A yellow coloured, XL sized, Cropped Trousers",115.0
+1100,Trousers,Cropped,XS,green,48,"A green coloured, XS sized, Cropped Trousers",115.0
+1101,Trousers,Cropped,S,green,71,"A green coloured, S sized, Cropped Trousers",115.0
+1102,Trousers,Cropped,M,green,65,"A green coloured, M sized, Cropped Trousers",115.0
+1103,Trousers,Cropped,L,green,55,"A green coloured, L sized, Cropped Trousers",115.0
+1104,Trousers,Cropped,XL,green,49,"A green coloured, XL sized, Cropped Trousers",115.0
+1105,Trousers,Cropped,XS,blue,47,"A blue coloured, XS sized, Cropped Trousers",115.0
+1106,Trousers,Cropped,S,blue,62,"A blue coloured, S sized, Cropped Trousers",115.0
+1107,Trousers,Cropped,M,blue,56,"A blue coloured, M sized, Cropped Trousers",115.0
+1108,Trousers,Cropped,L,blue,45,"A blue coloured, L sized, Cropped Trousers",115.0
+1109,Trousers,Cropped,XL,blue,51,"A blue coloured, XL sized, Cropped Trousers",115.0
+1110,Trousers,Cropped,XS,indigo,55,"A indigo coloured, XS sized, Cropped Trousers",115.0
+1111,Trousers,Cropped,S,indigo,65,"A indigo coloured, S sized, Cropped Trousers",115.0
+1112,Trousers,Cropped,M,indigo,73,"A indigo coloured, M sized, Cropped Trousers",115.0
+1113,Trousers,Cropped,L,indigo,63,"A indigo coloured, L sized, Cropped Trousers",115.0
+1114,Trousers,Cropped,XL,indigo,58,"A indigo coloured, XL sized, Cropped Trousers",115.0
+1115,Trousers,Cropped,XS,violet,65,"A violet coloured, XS sized, Cropped Trousers",115.0
+1116,Trousers,Cropped,S,violet,66,"A violet coloured, S sized, Cropped Trousers",115.0
+1117,Trousers,Cropped,M,violet,47,"A violet coloured, M sized, Cropped Trousers",115.0
+1118,Trousers,Cropped,L,violet,40,"A violet coloured, L sized, Cropped Trousers",115.0
+1119,Trousers,Cropped,XL,violet,64,"A violet coloured, XL sized, Cropped Trousers",115.0
+1120,Trousers,Cargo Pants,XS,red,72,"A red coloured, XS sized, Cargo Pants Trousers",102.0
+1121,Trousers,Cargo Pants,S,red,63,"A red coloured, S sized, Cargo Pants Trousers",102.0
+1122,Trousers,Cargo Pants,M,red,52,"A red coloured, M sized, Cargo Pants Trousers",102.0
+1123,Trousers,Cargo Pants,L,red,61,"A red coloured, L sized, Cargo Pants Trousers",102.0
+1124,Trousers,Cargo Pants,XL,red,45,"A red coloured, XL sized, Cargo Pants Trousers",102.0
+1125,Trousers,Cargo Pants,XS,orange,43,"A orange coloured, XS sized, Cargo Pants Trousers",102.0
+1126,Trousers,Cargo Pants,S,orange,60,"A orange coloured, S sized, Cargo Pants Trousers",102.0
+1127,Trousers,Cargo Pants,M,orange,51,"A orange coloured, M sized, Cargo Pants Trousers",102.0
+1128,Trousers,Cargo Pants,L,orange,78,"A orange coloured, L sized, Cargo Pants Trousers",102.0
+1129,Trousers,Cargo Pants,XL,orange,61,"A orange coloured, XL sized, Cargo Pants Trousers",102.0
+1130,Trousers,Cargo Pants,XS,yellow,68,"A yellow coloured, XS sized, Cargo Pants Trousers",102.0
+1131,Trousers,Cargo Pants,S,yellow,48,"A yellow coloured, S sized, Cargo Pants Trousers",102.0
+1132,Trousers,Cargo Pants,M,yellow,72,"A yellow coloured, M sized, Cargo Pants Trousers",102.0
+1133,Trousers,Cargo Pants,L,yellow,71,"A yellow coloured, L sized, Cargo Pants Trousers",102.0
+1134,Trousers,Cargo Pants,XL,yellow,52,"A yellow coloured, XL sized, Cargo Pants Trousers",102.0
+1135,Trousers,Cargo Pants,XS,green,63,"A green coloured, XS sized, Cargo Pants Trousers",102.0
+1136,Trousers,Cargo Pants,S,green,79,"A green coloured, S sized, Cargo Pants Trousers",102.0
+1137,Trousers,Cargo Pants,M,green,78,"A green coloured, M sized, Cargo Pants Trousers",102.0
+1138,Trousers,Cargo Pants,L,green,42,"A green coloured, L sized, Cargo Pants Trousers",102.0
+1139,Trousers,Cargo Pants,XL,green,65,"A green coloured, XL sized, Cargo Pants Trousers",102.0
+1140,Trousers,Cargo Pants,XS,blue,73,"A blue coloured, XS sized, Cargo Pants Trousers",102.0
+1141,Trousers,Cargo Pants,S,blue,63,"A blue coloured, S sized, Cargo Pants Trousers",102.0
+1142,Trousers,Cargo Pants,M,blue,64,"A blue coloured, M sized, Cargo Pants Trousers",102.0
+1143,Trousers,Cargo Pants,L,blue,77,"A blue coloured, L sized, Cargo Pants Trousers",102.0
+1144,Trousers,Cargo Pants,XL,blue,57,"A blue coloured, XL sized, Cargo Pants Trousers",102.0
+1145,Trousers,Cargo Pants,XS,indigo,51,"A indigo coloured, XS sized, Cargo Pants Trousers",102.0
+1146,Trousers,Cargo Pants,S,indigo,48,"A indigo coloured, S sized, Cargo Pants Trousers",102.0
+1147,Trousers,Cargo Pants,M,indigo,51,"A indigo coloured, M sized, Cargo Pants Trousers",102.0
+1148,Trousers,Cargo Pants,L,indigo,46,"A indigo coloured, L sized, Cargo Pants Trousers",102.0
+1149,Trousers,Cargo Pants,XL,indigo,64,"A indigo coloured, XL sized, Cargo Pants Trousers",102.0
+1150,Trousers,Cargo Pants,XS,violet,40,"A violet coloured, XS sized, Cargo Pants Trousers",102.0
+1151,Trousers,Cargo Pants,S,violet,79,"A violet coloured, S sized, Cargo Pants Trousers",102.0
+1152,Trousers,Cargo Pants,M,violet,58,"A violet coloured, M sized, Cargo Pants Trousers",102.0
+1153,Trousers,Cargo Pants,L,violet,74,"A violet coloured, L sized, Cargo Pants Trousers",102.0
+1154,Trousers,Cargo Pants,XL,violet,77,"A violet coloured, XL sized, Cargo Pants Trousers",102.0
+1155,Trousers,High-Waisted,XS,red,74,"A red coloured, XS sized, High-Waisted Trousers",99.0
+1156,Trousers,High-Waisted,S,red,80,"A red coloured, S sized, High-Waisted Trousers",99.0
+1157,Trousers,High-Waisted,M,red,59,"A red coloured, M sized, High-Waisted Trousers",99.0
+1158,Trousers,High-Waisted,L,red,52,"A red coloured, L sized, High-Waisted Trousers",99.0
+1159,Trousers,High-Waisted,XL,red,80,"A red coloured, XL sized, High-Waisted Trousers",99.0
+1160,Trousers,High-Waisted,XS,orange,55,"A orange coloured, XS sized, High-Waisted Trousers",99.0
+1161,Trousers,High-Waisted,S,orange,42,"A orange coloured, S sized, High-Waisted Trousers",99.0
+1162,Trousers,High-Waisted,M,orange,69,"A orange coloured, M sized, High-Waisted Trousers",99.0
+1163,Trousers,High-Waisted,L,orange,78,"A orange coloured, L sized, High-Waisted Trousers",99.0
+1164,Trousers,High-Waisted,XL,orange,47,"A orange coloured, XL sized, High-Waisted Trousers",99.0
+1165,Trousers,High-Waisted,XS,yellow,64,"A yellow coloured, XS sized, High-Waisted Trousers",99.0
+1166,Trousers,High-Waisted,S,yellow,56,"A yellow coloured, S sized, High-Waisted Trousers",99.0
+1167,Trousers,High-Waisted,M,yellow,45,"A yellow coloured, M sized, High-Waisted Trousers",99.0
+1168,Trousers,High-Waisted,L,yellow,77,"A yellow coloured, L sized, High-Waisted Trousers",99.0
+1169,Trousers,High-Waisted,XL,yellow,78,"A yellow coloured, XL sized, High-Waisted Trousers",99.0
+1170,Trousers,High-Waisted,XS,green,42,"A green coloured, XS sized, High-Waisted Trousers",99.0
+1171,Trousers,High-Waisted,S,green,73,"A green coloured, S sized, High-Waisted Trousers",99.0
+1172,Trousers,High-Waisted,M,green,51,"A green coloured, M sized, High-Waisted Trousers",99.0
+1173,Trousers,High-Waisted,L,green,75,"A green coloured, L sized, High-Waisted Trousers",99.0
+1174,Trousers,High-Waisted,XL,green,78,"A green coloured, XL sized, High-Waisted Trousers",99.0
+1175,Trousers,High-Waisted,XS,blue,51,"A blue coloured, XS sized, High-Waisted Trousers",99.0
+1176,Trousers,High-Waisted,S,blue,75,"A blue coloured, S sized, High-Waisted Trousers",99.0
+1177,Trousers,High-Waisted,M,blue,52,"A blue coloured, M sized, High-Waisted Trousers",99.0
+1178,Trousers,High-Waisted,L,blue,57,"A blue coloured, L sized, High-Waisted Trousers",99.0
+1179,Trousers,High-Waisted,XL,blue,65,"A blue coloured, XL sized, High-Waisted Trousers",99.0
+1180,Trousers,High-Waisted,XS,indigo,47,"A indigo coloured, XS sized, High-Waisted Trousers",99.0
+1181,Trousers,High-Waisted,S,indigo,79,"A indigo coloured, S sized, High-Waisted Trousers",99.0
+1182,Trousers,High-Waisted,M,indigo,61,"A indigo coloured, M sized, High-Waisted Trousers",99.0
+1183,Trousers,High-Waisted,L,indigo,55,"A indigo coloured, L sized, High-Waisted Trousers",99.0
+1184,Trousers,High-Waisted,XL,indigo,57,"A indigo coloured, XL sized, High-Waisted Trousers",99.0
+1185,Trousers,High-Waisted,XS,violet,72,"A violet coloured, XS sized, High-Waisted Trousers",99.0
+1186,Trousers,High-Waisted,S,violet,45,"A violet coloured, S sized, High-Waisted Trousers",99.0
+1188,Trousers,High-Waisted,L,violet,68,"A violet coloured, L sized, High-Waisted Trousers",99.0
+1189,Trousers,High-Waisted,XL,violet,74,"A violet coloured, XL sized, High-Waisted Trousers",99.0
+1190,Trousers,Pleated,XS,red,42,"A red coloured, XS sized, Pleated Trousers",105.0
+1191,Trousers,Pleated,S,red,78,"A red coloured, S sized, Pleated Trousers",105.0
+1192,Trousers,Pleated,M,red,40,"A red coloured, M sized, Pleated Trousers",105.0
+1193,Trousers,Pleated,L,red,70,"A red coloured, L sized, Pleated Trousers",105.0
+1194,Trousers,Pleated,XL,red,58,"A red coloured, XL sized, Pleated Trousers",105.0
+1195,Trousers,Pleated,XS,orange,74,"A orange coloured, XS sized, Pleated Trousers",105.0
+1196,Trousers,Pleated,S,orange,72,"A orange coloured, S sized, Pleated Trousers",105.0
+1197,Trousers,Pleated,M,orange,57,"A orange coloured, M sized, Pleated Trousers",105.0
+1198,Trousers,Pleated,L,orange,53,"A orange coloured, L sized, Pleated Trousers",105.0
+1199,Trousers,Pleated,XL,orange,69,"A orange coloured, XL sized, Pleated Trousers",105.0
+1200,Trousers,Pleated,XS,yellow,75,"A yellow coloured, XS sized, Pleated Trousers",105.0
+1201,Trousers,Pleated,S,yellow,71,"A yellow coloured, S sized, Pleated Trousers",105.0
+1202,Trousers,Pleated,M,yellow,54,"A yellow coloured, M sized, Pleated Trousers",105.0
+1203,Trousers,Pleated,L,yellow,62,"A yellow coloured, L sized, Pleated Trousers",105.0
+1204,Trousers,Pleated,XL,yellow,52,"A yellow coloured, XL sized, Pleated Trousers",105.0
+1205,Trousers,Pleated,XS,green,58,"A green coloured, XS sized, Pleated Trousers",105.0
+1206,Trousers,Pleated,S,green,55,"A green coloured, S sized, Pleated Trousers",105.0
+1207,Trousers,Pleated,M,green,41,"A green coloured, M sized, Pleated Trousers",105.0
+1208,Trousers,Pleated,L,green,47,"A green coloured, L sized, Pleated Trousers",105.0
+1209,Trousers,Pleated,XL,green,55,"A green coloured, XL sized, Pleated Trousers",105.0
+1210,Trousers,Pleated,XS,blue,62,"A blue coloured, XS sized, Pleated Trousers",105.0
+1211,Trousers,Pleated,S,blue,60,"A blue coloured, S sized, Pleated Trousers",105.0
+1212,Trousers,Pleated,M,blue,66,"A blue coloured, M sized, Pleated Trousers",105.0
+1213,Trousers,Pleated,L,blue,79,"A blue coloured, L sized, Pleated Trousers",105.0
+1214,Trousers,Pleated,XL,blue,55,"A blue coloured, XL sized, Pleated Trousers",105.0
+1215,Trousers,Pleated,XS,indigo,52,"A indigo coloured, XS sized, Pleated Trousers",105.0
+1216,Trousers,Pleated,S,indigo,41,"A indigo coloured, S sized, Pleated Trousers",105.0
+1217,Trousers,Pleated,M,indigo,48,"A indigo coloured, M sized, Pleated Trousers",105.0
+1218,Trousers,Pleated,L,indigo,73,"A indigo coloured, L sized, Pleated Trousers",105.0
+1219,Trousers,Pleated,XL,indigo,45,"A indigo coloured, XL sized, Pleated Trousers",105.0
+1220,Trousers,Pleated,XS,violet,58,"A violet coloured, XS sized, Pleated Trousers",105.0
+1221,Trousers,Pleated,S,violet,50,"A violet coloured, S sized, Pleated Trousers",105.0
+1222,Trousers,Pleated,M,violet,45,"A violet coloured, M sized, Pleated Trousers",105.0
+1223,Trousers,Pleated,L,violet,48,"A violet coloured, L sized, Pleated Trousers",105.0
+1224,Trousers,Pleated,XL,violet,65,"A violet coloured, XL sized, Pleated Trousers",105.0
+1225,Trousers,Tracksuit Bottoms,XS,red,55,"A red coloured, XS sized, Tracksuit Bottoms Trousers",112.0
+1226,Trousers,Tracksuit Bottoms,S,red,57,"A red coloured, S sized, Tracksuit Bottoms Trousers",112.0
+1227,Trousers,Tracksuit Bottoms,M,red,78,"A red coloured, M sized, Tracksuit Bottoms Trousers",112.0
+1228,Trousers,Tracksuit Bottoms,L,red,43,"A red coloured, L sized, Tracksuit Bottoms Trousers",112.0
+1229,Trousers,Tracksuit Bottoms,XL,red,45,"A red coloured, XL sized, Tracksuit Bottoms Trousers",112.0
+1230,Trousers,Tracksuit Bottoms,XS,orange,57,"A orange coloured, XS sized, Tracksuit Bottoms Trousers",112.0
+1231,Trousers,Tracksuit Bottoms,S,orange,59,"A orange coloured, S sized, Tracksuit Bottoms Trousers",112.0
+1232,Trousers,Tracksuit Bottoms,M,orange,47,"A orange coloured, M sized, Tracksuit Bottoms Trousers",112.0
+1233,Trousers,Tracksuit Bottoms,L,orange,73,"A orange coloured, L sized, Tracksuit Bottoms Trousers",112.0
+1234,Trousers,Tracksuit Bottoms,XL,orange,42,"A orange coloured, XL sized, Tracksuit Bottoms Trousers",112.0
+1235,Trousers,Tracksuit Bottoms,XS,yellow,76,"A yellow coloured, XS sized, Tracksuit Bottoms Trousers",112.0
+1236,Trousers,Tracksuit Bottoms,S,yellow,49,"A yellow coloured, S sized, Tracksuit Bottoms Trousers",112.0
+1237,Trousers,Tracksuit Bottoms,M,yellow,80,"A yellow coloured, M sized, Tracksuit Bottoms Trousers",112.0
+1238,Trousers,Tracksuit Bottoms,L,yellow,41,"A yellow coloured, L sized, Tracksuit Bottoms Trousers",112.0
+1239,Trousers,Tracksuit Bottoms,XL,yellow,59,"A yellow coloured, XL sized, Tracksuit Bottoms Trousers",112.0
+1240,Trousers,Tracksuit Bottoms,XS,green,69,"A green coloured, XS sized, Tracksuit Bottoms Trousers",112.0
+1241,Trousers,Tracksuit Bottoms,S,green,72,"A green coloured, S sized, Tracksuit Bottoms Trousers",112.0
+1242,Trousers,Tracksuit Bottoms,M,green,47,"A green coloured, M sized, Tracksuit Bottoms Trousers",112.0
+1243,Trousers,Tracksuit Bottoms,L,green,66,"A green coloured, L sized, Tracksuit Bottoms Trousers",112.0
+1244,Trousers,Tracksuit Bottoms,XL,green,49,"A green coloured, XL sized, Tracksuit Bottoms Trousers",112.0
+1245,Trousers,Tracksuit Bottoms,XS,blue,42,"A blue coloured, XS sized, Tracksuit Bottoms Trousers",112.0
+1246,Trousers,Tracksuit Bottoms,S,blue,48,"A blue coloured, S sized, Tracksuit Bottoms Trousers",112.0
+1247,Trousers,Tracksuit Bottoms,M,blue,61,"A blue coloured, M sized, Tracksuit Bottoms Trousers",112.0
+1248,Trousers,Tracksuit Bottoms,L,blue,72,"A blue coloured, L sized, Tracksuit Bottoms Trousers",112.0
+1249,Trousers,Tracksuit Bottoms,XL,blue,68,"A blue coloured, XL sized, Tracksuit Bottoms Trousers",112.0
+1250,Trousers,Tracksuit Bottoms,XS,indigo,63,"A indigo coloured, XS sized, Tracksuit Bottoms Trousers",112.0
+1252,Trousers,Tracksuit Bottoms,M,indigo,59,"A indigo coloured, M sized, Tracksuit Bottoms Trousers",112.0
+1253,Trousers,Tracksuit Bottoms,L,indigo,50,"A indigo coloured, L sized, Tracksuit Bottoms Trousers",112.0
+1254,Trousers,Tracksuit Bottoms,XL,indigo,54,"A indigo coloured, XL sized, Tracksuit Bottoms Trousers",112.0
+1255,Trousers,Tracksuit Bottoms,XS,violet,67,"A violet coloured, XS sized, Tracksuit Bottoms Trousers",112.0
+1256,Trousers,Tracksuit Bottoms,S,violet,48,"A violet coloured, S sized, Tracksuit Bottoms Trousers",112.0
+1257,Trousers,Tracksuit Bottoms,M,violet,73,"A violet coloured, M sized, Tracksuit Bottoms Trousers",112.0
+1258,Trousers,Tracksuit Bottoms,L,violet,45,"A violet coloured, L sized, Tracksuit Bottoms Trousers",112.0
+1259,Trousers,Tracksuit Bottoms,XL,violet,60,"A violet coloured, XL sized, Tracksuit Bottoms Trousers",112.0
