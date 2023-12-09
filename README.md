@@ -1,4 +1,4 @@
-Data Analytics Source Code of Kampus Merdeka Batch 6 - RevoU's Data Analytics Capstone Project
+Data Analytics Source Code of Kampus Merdeka Batch 5 - RevoU's Data Analytics Capstone Project
 
 This is source code of our RevoU's Data Analytics Capstone Project. Our study case is a dataset of Shopping Cart Database.
 
