@@ -25,3 +25,30 @@ Metrics :
 - Time range
 
 Data Source : https://www.kaggle.com/datasets/ruchi798/shopping-cart-database?select=sales.csv
+
+Credit :
+<table>
+  <tr>
+    <td>Project Leader</td>
+    <td><a href="https://www.linkedin.com/in/louisederizhy" target="_blank">Louise Derizhy</a></td>
+  </tr>
+  <tr>
+    <td>Data Cleaning</td>
+    <td><a href="https://www.linkedin.com/in/putri-amalia-zahrai-87685a216" target="_blank">Putri Amalia Zahrai</a></td>
+  </tr>
+  <tr>
+    <td>Data Analytics</td>
+    <td>
+      <a href="https://www.linkedin.com/in/elena-merdekawati-dwi-putri-haries-a87858217" target="_blank">Elena Merdekawati Dwi Putri Haries</a><br>
+      <a href="https://www.linkedin.com/in/risa-fatima-zahra-055b581b2" target="_blank">Risa Fatima Zahra</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Data Visualization</td>
+    <td><a href="https://www.linkedin.com/in/maulidan-rama-ardiansyah-2aa57a285" target="_blank">Maulidan Rama Ardiansyah</a></td>
+  </tr>
+  <tr>
+    <td>Data Communication</td>
+    <td><a href="https://id.linkedin.com/in/ade-ayu-septiana-15a243231" target="_blank">Ade Ayu Septiana</a></td>
+  </tr>
+</table>
