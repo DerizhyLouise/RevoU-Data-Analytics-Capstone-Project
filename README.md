@@ -24,7 +24,11 @@ Metrics :
 - Product price
 - Time range
 
+Dashboard : https://lookerstudio.google.com/u/0/reporting/948d021d-22ff-4e25-948d-c1b320b163ef
+
 Data Source : https://www.kaggle.com/datasets/ruchi798/shopping-cart-database?select=sales.csv
+
+Overview : https://www.canva.com/design/DAFzotoJP_s/hDEQB7yO9gx-mRZZOWYAaw/edit?utm_content=DA[%E2%80%A6]m_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Credit :
 <table>
