@@ -24,6 +24,8 @@ Metrics :
 - Product price
 - Time range
 
+Data Cleaning (Spreedsheet Version) : https://docs.google.com/spreadsheets/d/1kJQbCGs3-8mPtHZG2507f2G8RWG-Kpc4_Q1r31HYLKU/edit?hl=id#gid=1656985075
+
 Dashboard : https://lookerstudio.google.com/u/0/reporting/948d021d-22ff-4e25-948d-c1b320b163ef
 
 Data Source : https://www.kaggle.com/datasets/ruchi798/shopping-cart-database?select=sales.csv
